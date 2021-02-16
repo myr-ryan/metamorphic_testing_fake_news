@@ -25,7 +25,7 @@ def MR_4(browser, text):
 			input_box.submit()
 
 			# find the corresponding output
-			time.sleep(3)
+			time.sleep(8)
 			output = browser.find_element_by_class_name('ff-flag').text
 			# click 'show more'
 			time.sleep(2)
@@ -70,17 +70,17 @@ def MR_4(browser, text):
 			#print(output)
 
 		except selenium.common.exceptions.NoSuchElementException:
-			print('**Less than 100 words! or no reason list**')
+			print('**Less than 100 words! or No reason list (Journalism)**')
 			total -= 1
 			time.sleep(2)
 			browser.get(url)
 
 	rate = correct / total
-	print('The total pass rate is ', rate)
-	print('Correct number is ', correct)
+	print('The rate is ', rate)
+	print('The number of corresponding with MR-4: ', correct)
 	print('Total number is ', total)
 	reason_file = pd.DataFrame({
 		'Reason Lists': reasons,
 		'Labels': labels
 		})
-	reason_file.to_csv('../reason_lists1.csv', encoding='utf-8')
+	reason_file.to_csv('../reason_lists19500.csv', encoding='utf-8')

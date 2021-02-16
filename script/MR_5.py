@@ -46,9 +46,9 @@ def MR_5(browser, sentences, labels):
 
 			if str(labels[i]) == str(output):
 				consistence += 1
-				print('The result correpsonds with the MR')
+				print('The result does not correpsonds with the MR')
 			else:
-				print('The result does not correspond with the MR')
+				print('The result corresponds with the MR')
 			print('----------')
 			# go back to 'try-it-out' page
 			time.sleep(2)
@@ -62,7 +62,7 @@ def MR_5(browser, sentences, labels):
 
 	rate = consistence / total
 	print('The total pass rate is ', 1 - rate)
-	print('Correct number is ', consistence)
+	print('Correct number is ', total - consistence)
 	print('Total number is ', total)
 
 
