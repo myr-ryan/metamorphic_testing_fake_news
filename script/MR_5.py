@@ -26,11 +26,13 @@ def MR_5(browser, sentences, labels):
 
 	consistence = 0
 	total = len(sentences)
+	index = 0
 
 	# go to fakerfact website
 	browser.get(url_try)
 
 	for i in range(len(sentences)):
+		index += 1
 		try:
 			# enter the sentences (as input)
 			time.sleep(2)
@@ -41,6 +43,7 @@ def MR_5(browser, sentences, labels):
 			# get the output
 			time.sleep(4)
 			output = print_label(browser.find_element_by_class_name('ff-flag').text)
+			print('Number ', index)
 			print('Source test case: ', labels[i])
 			print('Follow-up test case: ', output)
 
