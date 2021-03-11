@@ -1,86 +1,71 @@
 # coding=utf-8
+import numpy as np
+from functions import *
 import time
 import selenium
-from functions import *
-import pandas as pd 
+import random
+
 
 url = 'https://www.fakerfact.org/'
 url_try = 'https://www.fakerfact.org/try-it-out'
 
-def MR_4(browser, text):
+def perm(sentences):
+	splited = sentences.split('\n')
+	splited_new = []
+	for s in splited:
+		s_temp = s[1:len(s)-1].split(' ')
+		random.shuffle(s_temp)
+		splited_new.append('"' + ' '.join(s_temp) + '"')
+
+	return splited_new
+
+
+
+
+def MR_4(browser, sentences, labels):
+
+	consistence = 0
+	total = len(sentences)
+	index = 0
+
 	# go to fakerfact website
-	browser.get(url)
+	browser.get(url_try)
 
-	correct = 0
-	total = len(text)
-	reasons = []
-	labels = []
-
-	for t in text:
+	for i in range(len(sentences)):
+		index += 1
 		try:
-			# find the text area, and send inputs
+			# enter the sentences (as input)
 			time.sleep(2)
 			input_box = browser.find_element_by_class_name('form-control')
-			input_box.send_keys(t)
+			input_box.send_keys(perm(sentences[i]))
 			input_box.submit()
 
-			# find the corresponding output
-			time.sleep(8)
-			output = browser.find_element_by_class_name('ff-flag').text
-			# click 'show more'
-			time.sleep(2)
-			browser.find_element_by_xpath("//a[@href='#less']").click()
+			# get the output
+			time.sleep(4)
+			output = print_label(browser.find_element_by_class_name('ff-flag').text)
+			print('Number ', index)
+			print('Source test case: ', labels[i])
+			print('Follow-up test case: ', output)
 
-			# find the reason list
-			time.sleep(2)
-			reason_list = browser.find_element_by_class_name('ff-copy').text
-			reason_list = filter_emoji(reason_list)
-
-			# go to 'try it out' page
+			if str(labels[i]) == str(output):
+				consistence += 1
+				print('The result does not correpsonds with the MR')
+			else:
+				print('The result corresponds with the MR')
+			print('----------')
+			# go back to 'try-it-out' page
 			time.sleep(2)
 			browser.get(url_try)
 
-
-			# enter the reason list (as input)
-			time.sleep(2)
-			input_box = browser.find_element_by_class_name('form-control')
-			input_box.send_keys(reason_list)
-			input_box.submit()
-
-			# get the output again
-			time.sleep(4)
-			output_new = browser.find_element_by_class_name('ff-flag').text
-
-			first = print_label(output)
-			second = print_label(output_new)
-			print('Source Test case result: ', first)
-			print('Follow-up Test case result:', second)
-			if set(second) <= set(first):
-				print('The result correpsonds with the MR')
-				correct += 1
-			else:
-				print('The result does not correspond with the MR')
-			reasons.append(reason_list)
-			labels.append(second)
-			print('-----------------------------------')
-
-			# go back to 'url' page
-			time.sleep(2)
-			browser.get(url)
-			#print(output)
-
 		except selenium.common.exceptions.NoSuchElementException:
-			print('**Less than 100 words! or No reason list (Journalism)**')
+			print('**Something goes wrong**')
 			total -= 1
 			time.sleep(2)
-			browser.get(url)
+			browser.get(url_try)
 
-	rate = correct / total
-	print('The rate is ', rate)
-	print('The number of corresponding with MR-4: ', correct)
+	rate = consistence / total
+	print('The total pass rate is ', 1 - rate)
+	print('Correct number is ', total - consistence)
 	print('Total number is ', total)
-	reason_file = pd.DataFrame({
-		'Reason Lists': reasons,
-		'Labels': labels
-		})
-	reason_file.to_csv('../reason_lists19500.csv', encoding='utf-8')
+
+

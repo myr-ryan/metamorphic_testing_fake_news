@@ -62,13 +62,13 @@ def joint_files_workable(workable1, workable2):
 
 def joint_files_reason_lists(rl1, rl2):
 	print('Combining ', rl1, ' and ', rl2)
-	data1 = pd.read_csv(rl1)
-	data2 = pd.read_csv(rl2)
+	data1 = pd.read_csv(rl1, encoding='utf-8')
+	data2 = pd.read_csv(rl2, encoding='utf-8')
 	result = data1.append(data2).reset_index(drop=True)
 	reason_file = pd.DataFrame({
-		'Reason Lists': result['Reason Lists'],
+		'Antonymy sentences': result['Antonymy sentences'],
 		'Labels': result['Labels']
 		})
-	reason_file.to_csv('../reason_lists.csv', encoding='utf-8')
+	reason_file.to_csv('../antonymy.csv', encoding='utf-8')
 
 

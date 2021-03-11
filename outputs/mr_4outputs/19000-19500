@@ -1,0 +1,1495 @@
+(base) mayingruideAir:script mayingrui$ python main.py
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Satire']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Agenda Driven', 'Journalism', 'Opinion', 'Satire', 'Sensational', 'Wiki']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Satire', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion', 'Satire', 'Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Satire', 'Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Agenda Driven', 'Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Journalism', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Satire', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Satire']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Satire', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Agenda Driven', 'Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Satire']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Satire', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Satire']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Satire']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Satire', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Satire', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Satire']
+Follow-up Test case result: ['Satire']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Satire']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Satire']
+Follow-up Test case result: ['Opinion', 'Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Satire']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Journalism', 'Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Satire', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Satire']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Journalism', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Journalism', 'Sensational']
+Follow-up Test case result: ['Journalism', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Satire', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Satire', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion']
+Follow-up Test case result: ['Opinion']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Satire']
+Follow-up Test case result: ['Satire']
+The result correpsonds with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion']
+Follow-up Test case result: ['Sensational']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion', 'Satire', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Opinion', 'Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Journalism', 'Opinion']
+Follow-up Test case result: ['Opinion', 'Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Satire']
+Follow-up Test case result: ['Satire']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Satire']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Journalism', 'Satire', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion', 'Satire']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Opinion']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Satire']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Satire', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Satire']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Journalism', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion']
+Follow-up Test case result: ['Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Opinion']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Satire', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Satire', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Satire', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Satire', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Satire', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion']
+Follow-up Test case result: ['Opinion', 'Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Opinion', 'Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Satire', 'Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Agenda Driven', 'Opinion', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Satire']
+Follow-up Test case result: ['Satire']
+The result correpsonds with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Opinion', 'Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion', 'Satire']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Opinion', 'Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Satire']
+Follow-up Test case result: ['Satire']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Opinion']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Satire']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Journalism', 'Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Satire', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion', 'Satire', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Satire', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Agenda Driven', 'Opinion', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Satire', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion', 'Satire', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Satire', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Satire', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Satire', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Journalism', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Satire']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Satire', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Satire']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Satire', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion']
+Follow-up Test case result: ['Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Satire', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Satire', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Agenda Driven', 'Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Satire', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Agenda Driven', 'Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Satire', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion', 'Satire', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Satire', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Satire']
+Follow-up Test case result: ['Satire']
+The result correpsonds with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Satire']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion', 'Satire']
+Follow-up Test case result: ['Opinion', 'Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Satire']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Satire']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Satire', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Journalism', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Satire', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion', 'Satire', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Satire']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion']
+The result correpsonds with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Agenda Driven', 'Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Journalism', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Satire', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Journalism', 'Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Satire', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Satire', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Satire', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Satire', 'Sensational']
+Follow-up Test case result: ['Satire']
+The result correpsonds with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion']
+Follow-up Test case result: ['Satire']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Agenda Driven', 'Opinion', 'Satire', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Journalism', 'Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Journalism', 'Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Journalism', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Journalism', 'Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Satire', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Satire', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Agenda Driven', 'Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Satire', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Agenda Driven', 'Journalism', 'Opinion', 'Satire', 'Sensational', 'Wiki']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion', 'Satire', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Satire', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Satire']
+Follow-up Test case result: ['Satire']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Satire', 'Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Satire']
+Follow-up Test case result: ['Agenda Driven', 'Journalism', 'Opinion', 'Satire', 'Sensational', 'Wiki']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Satire', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Satire', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Satire']
+Follow-up Test case result: ['Satire']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Journalism', 'Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion', 'Satire', 'Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Satire']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Satire', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Satire', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Satire', 'Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Agenda Driven', 'Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Satire', 'Sensational']
+Follow-up Test case result: ['Satire']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Satire', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Journalism', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion', 'Satire', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Satire']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Satire']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion', 'Satire', 'Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Opinion', 'Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Satire']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Opinion']
+Follow-up Test case result: ['Opinion', 'Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Journalism', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Satire', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Satire']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Journalism', 'Satire']
+Follow-up Test case result: ['Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Satire']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Satire', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Agenda Driven', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Agenda Driven', 'Opinion', 'Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Journalism', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Opinion', 'Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Satire', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Satire']
+Follow-up Test case result: ['Satire']
+The result correpsonds with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Agenda Driven', 'Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Satire']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Satire']
+Follow-up Test case result: ['Satire']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Journalism', 'Sensational']
+Follow-up Test case result: ['Journalism', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Journalism', 'Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Satire']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Opinion', 'Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Journalism', 'Opinion']
+Follow-up Test case result: ['Satire']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Satire', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Satire', 'Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Satire', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Satire', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion', 'Satire', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Satire', 'Sensational']
+Follow-up Test case result: ['Satire']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Satire']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Satire', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Satire', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Satire', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Sensational']
+Follow-up Test case result: ['Satire']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result does not correspond with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion', 'Satire', 'Sensational']
+Follow-up Test case result: ['Opinion']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Satire', 'Sensational']
+Follow-up Test case result: ['Satire']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Satire']
+Follow-up Test case result: ['Satire']
+The result correpsonds with the MR
+-----------------------------------
+Source Test case result:  ['Satire', 'Sensational']
+Follow-up Test case result: ['Satire', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Opinion', 'Sensational']
+Follow-up Test case result: ['Opinion', 'Sensational']
+The result correpsonds with the MR
+-----------------------------------
+**Less than 100 words! or No reason list (Journalism)**
+**Less than 100 words! or No reason list (Journalism)**
+Source Test case result:  ['Journalism', 'Sensational']
+Follow-up Test case result: ['Sensational']
+The result correpsonds with the MR
+-----------------------------------
+The rate is  0.49696969696969695
+The number of corresponding with MR-4:  164
+Total number is  330
+(base) mayingruideAir:script mayingrui$ 
