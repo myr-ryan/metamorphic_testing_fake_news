@@ -1,5 +1,8 @@
 import re
-
+import pandas as pd
+import numpy as np
+import selenium
+import time
 
 def filter_emoji(desstr,restr=''):     
     try:  
@@ -21,11 +24,14 @@ def print_label(output):
 # This function will be used in MR_1, MR_2, MR_5
 # The relation of the outputs will be changed according to each metamorphic relation
 def metamorphic_testing(browser, file1, file2):
+	url = 'https://www.fakerfact.org/'
+	url_try = 'https://www.fakerfact.org/try-it-out'
+
 	source = pd.read_csv(file1, encoding='utf-8')
 	followup = pd.read_csv(file2, encoding='utf-8')
 
-	source_sentences = source[source.columns[1]].values.tolist()[3300:3500]
-	followup_sentences = followup[followup.columns[1]].values.tolist()[3300:3500]
+	source_sentences = source[source.columns[1]].values.tolist()[2900:3100]
+	followup_sentences = followup[followup.columns[1]].values.tolist()[2900:3100]
 
 	old_sentences = []
 	source_labels = []
@@ -84,7 +90,7 @@ def metamorphic_testing(browser, file1, file2):
 
 				# For MR_1 and MR_5, the results should the same
 				# For MR_2, the results should be different 
-				if str(output_s) != str(output_f):
+				if str(output_s) == str(output_f):
 					consistence += 1
 					print('The result correpsonds with the MR')
 				else:
@@ -115,13 +121,13 @@ def metamorphic_testing(browser, file1, file2):
 		'Reason Lists': old_sentences,
 		'Labels': source_labels
 		})
-	reason_file.to_csv('../old3300_3500.csv', encoding='utf-8')
+	reason_file.to_csv('../mr_5_old_2900_3100.csv', encoding='utf-8')
 
 	reason_file = pd.DataFrame({
 		'Reason Lists': new_sentences,
 		'Labels': followup_labels
 		})
-	reason_file.to_csv('../new3300_3500.csv', encoding='utf-8')
+	reason_file.to_csv('../mr_5_new_2900_3100.csv', encoding='utf-8')
 
 
 

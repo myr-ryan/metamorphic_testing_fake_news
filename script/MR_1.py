@@ -12,7 +12,7 @@ url = 'https://www.fakerfact.org/'
 url_try = 'https://www.fakerfact.org/try-it-out'
 
 source = pd.read_csv('../reason_lists.csv', encoding='utf-8')
-followup = pd.read_csv('../similarity.csv', encoding='utf-8')
+followup = pd.read_csv('../synonymy.csv', encoding='utf-8')
 
 
 source_sentences = source[source.columns[1]].values.tolist()[3300:3500]

@@ -6,15 +6,15 @@ import pandas as pd
 from read_file import *
 from is_safe_url import *
 #from MR_1 import *
-from MR_2 import *
+#from MR_2 import *
 #from MR_3 import *
 #from MR_4 import *
-#from MR_5 import *
+from MR_5 import *
 import numpy as np
 
-# # use chrome driver
-# path = '/Users/mayingrui/Desktop/FYP/Dataset/chromedriver'
-# browser = webdriver.Chrome(executable_path=path)
+# use chrome driver
+path = '/Users/mayingrui/Desktop/FYP/Dataset/chromedriver'
+browser = webdriver.Chrome(executable_path=path)
 
 # # check url safety by running the four lines below
 # check_safety('../gossipcop_fake.csv')
@@ -29,7 +29,7 @@ import numpy as np
 # # joint different csv files, for the purpose of generating workable url and safe url
 #joint_files_workable('../workable_url.csv', '../workable_url1.csv')
 #joint_files_safe('../safe_url.csv', '../safe_url1.csv')
-joint_files_reason_lists('../antonymy0_5.csv', '../antonymy5_100.csv')
+#joint_files_reason_lists('../antonymy.csv', '../antonymy5000.csv')
 
 
 
@@ -53,7 +53,8 @@ joint_files_reason_lists('../antonymy0_5.csv', '../antonymy5_100.csv')
 # ##到这一行结束
 
 #MR-2: Opposite Results after Antonymy
-#MR_2(browser, sentences, labels)
+# 运行完0-200了
+#MR_2(browser)
 
 
 
@@ -64,7 +65,7 @@ joint_files_reason_lists('../antonymy0_5.csv', '../antonymy5_100.csv')
 #MR_4(browser, sentences, labels)
 
 # MR-5 Shuffle of Sentences
-#MR_5(sentences, labels)
+MR_5(browser)
 
 
 # ##########

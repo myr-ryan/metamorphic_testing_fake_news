@@ -4,9 +4,8 @@ import numpy as np
 import pandas as pd
 from functions import *
 
-def MR_2(browser, sentences, labels):
-	pass
-	#metamorphic_testing('', '')
+def MR_2(browser):
+	metamorphic_testing(browser, '../reason_lists.csv', '../antonymy.csv')
 	# nlp = spacy.load('en_core_web_sm')
 	# all_sentences = []
 
