@@ -30,8 +30,8 @@ def metamorphic_testing(browser, file1, file2):
 	source = pd.read_csv(file1, encoding='utf-8')
 	followup = pd.read_csv(file2, encoding='utf-8')
 
-	source_sentences = source[source.columns[1]].values.tolist()[2900:3100]
-	followup_sentences = followup[followup.columns[1]].values.tolist()[2900:3100]
+	source_sentences = source[source.columns[1]].values.tolist()[11000::]
+	followup_sentences = followup[followup.columns[1]].values.tolist()[11000::]
 
 	old_sentences = []
 	source_labels = []
@@ -121,13 +121,13 @@ def metamorphic_testing(browser, file1, file2):
 		'Reason Lists': old_sentences,
 		'Labels': source_labels
 		})
-	reason_file.to_csv('../mr_5_old_2900_3100.csv', encoding='utf-8')
+	reason_file.to_csv('../mr_5_old_11000.csv', encoding='utf-8')
 
 	reason_file = pd.DataFrame({
 		'Reason Lists': new_sentences,
 		'Labels': followup_labels
 		})
-	reason_file.to_csv('../mr_5_new_2900_3100.csv', encoding='utf-8')
+	reason_file.to_csv('../mr_5_new_11000.csv', encoding='utf-8')
 
 
 

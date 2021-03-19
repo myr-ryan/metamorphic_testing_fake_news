@@ -6,15 +6,15 @@ import pandas as pd
 from read_file import *
 from is_safe_url import *
 #from MR_1 import *
-#from MR_2 import *
+from MR_2 import *
 #from MR_3 import *
 #from MR_4 import *
-from MR_5 import *
+#from MR_5 import *
 import numpy as np
 
-# use chrome driver
-path = '/Users/mayingrui/Desktop/FYP/Dataset/chromedriver'
-browser = webdriver.Chrome(executable_path=path)
+# # use chrome driver
+# path = '/Users/mayingrui/Desktop/FYP/Dataset/chromedriver'
+# browser = webdriver.Chrome(executable_path=path)
 
 # # check url safety by running the four lines below
 # check_safety('../gossipcop_fake.csv')
@@ -36,15 +36,15 @@ browser = webdriver.Chrome(executable_path=path)
 ##########
 #text_in_df = pd.read_csv('../workable_url.csv')
 
-##从这一行开始
-# sentences_with_label = pd.read_csv('../reason_lists.csv', encoding='utf-8')
+#从这一行开始
+sentences_with_label = pd.read_csv('../reason_lists.csv', encoding='utf-8')
 
 # #0:500
 # #text = text_in_df[text_in_df.columns[1]].values.tolist()[19500:]
 
 
-# sentences = sentences_with_label[sentences_with_label.columns[1]].values.tolist()
-# labels = sentences_with_label[sentences_with_label.columns[2]].values.tolist()
+sentences = sentences_with_label[sentences_with_label.columns[1]].values.tolist()[3:4]
+labels = sentences_with_label[sentences_with_label.columns[2]].values.tolist()[3:4]
 
 
 # #MR-1: Consistence with Synonymy
@@ -54,7 +54,7 @@ browser = webdriver.Chrome(executable_path=path)
 
 #MR-2: Opposite Results after Antonymy
 # 运行完0-200了
-#MR_2(browser)
+MR_2(sentences, labels)
 
 
 
@@ -65,7 +65,7 @@ browser = webdriver.Chrome(executable_path=path)
 #MR_4(browser, sentences, labels)
 
 # MR-5 Shuffle of Sentences
-MR_5(browser)
+#MR_5(browser)
 
 
 # ##########
