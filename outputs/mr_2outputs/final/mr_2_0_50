@@ -1,0 +1,1407 @@
+(base) mayingruideMacBook-Air:script mayingrui$ python main.py
+“Source: mzansilive.co.za...”
+“They dismissed it as yet another sensationalist story like many others.”
+“The Pistorius family told the Sunday paper that they were not aware of any investigation into Pistorius’ alleged plot against the prison staff.”
+“A raid of his cell weeks ago allegedly found “toxic pills” inside it, though these are likely to be prescription drugs and anti-depressants, which might also be used in a suicide attempt.”
+“Mashego wrote that he had also established from warders that Pistorius had been planning to harm the Kgosi Mampuru II prison’s health manager and a nurse, as they had testified against him, describing him as violent.”
+“The reports could not yet be confirmed.”
+“Loading...”
+“The report added that sharp blades were subsequently found in Pistorius’ cell during a search on Saturday afternoon.”
+““An inmate situated close to the hospital section told City Press that Pistorius had injured himself intentionally,” the news report stated.”
+“According to City Press, correctional services said Pistorius claimed he had injured himself after falling out of bed.”
+
+
+"Source: mzansilive.co.za..."
+"They did't dismiss it as yet another sensationalist story like many others."
+"The Pistorius family did't tell the Sunday paper that they were aware of any investigation into Pistorius ’ alleged plot against the prison staff."
+"A raid of his cell weeks ago allegedly found “toxic pills” inside it, though these are likely to be prescription drugs and anti-depressants, which might also be used in a suicide attempt."
+"Mashego did't write that he had also established from warders that Pistorius had been planning to harm the Kgosi Mampuru II prison ’s health manager and a nurse, as they had testified against him, describing him as violent."
+"The reports could not yet be confirmed."
+"Loading..."
+"The report did't add that sharp blades were subsequently found in Pistorius ’ cell during a search on Saturday afternoon."
+"“ An inmate did't situate close to the hospital section told City Press that Pistorius had injured himself intentionally, ” the news report stated."
+"According to City Press, correctional services said Pistorius claimed he had injured himself after falling out of bed."
+
+
+Number  1
+Source test case:  ['Sensational']
+Follow-up test case:  ['Satire', 'Sensational']
+The result correpsonds with the MR
+----------
+“Beheadings take place in public squares where the headless corpses are later put on display.”
+“Saudi uses methods such as beheading, stoning and crucifixion to execute women for crimes, including adultery, in the strict Islamic country.”
+“The boys were only advised "not to be victimized" the report further states.”
+“However the verdict of the "male only" Sharia panel was that they need o be executed in accordance with the Sharia law.”
+“According to HRW the girls were detained for more than a year before the trial and never confessed committing any crime.”
+“...and protest...”
+“The ultra conservative Arabian nation that has one of the worst human rights records is also a member of the United Nations Human Rights commission and recently got elected to the Women s Rights Commission as well which sparked anger...”
+“When the police arrived the girls were dancing with their male friends and they were arrested immediately.”
+“A neighbor supposedly an assistant of an Imam of a mosque close by has reported this to Saudi Arabia's religious police.”
+“Fathima Al Kwaini and her friends that included three male friends have celebratedKwaini'sbirthday at a friends house.”
+
+
+"Beheadings don't take place in public squares where the headless corpses are later put on display."
+"Saudi doesn't use methods such as beheading, stoning and crucifixion to execute women for crimes, including adultery, in the strict Islamic country."
+"The boys were only advised "not to be victimized" the report further states."
+"However the verdict of the "male only" Sharia panel was that they need o be executed in accordance with the Sharia law."
+"According to HRW the girls were detained for more than a year before the trial and never confessed committing any crime."
+"...and protest..."
+"The ultra conservative Arabian nation that not has one of the worst human rights records is also a member of the United Nations Human Rights commission and recently got elected to the Women s Rights Commission as well which sparked anger ..."
+"When the police did't arrive the girls were dancing with their male friends and they were arrested immediately."
+"A neighbor supposedly an assistant of an Imam of a mosque close by has reported this to Saudi Arabia's religious police."
+"Fathima Al Kwaini and her friends that included three male friends have celebratedKwaini'sbirthday at a friends house."
+
+
+Number  2
+Source test case:  ['Sensational']
+Follow-up test case:  ['Satire', 'Sensational']
+The result correpsonds with the MR
+----------
+“Maybe she can go to work with her benevolent father collecting huge speaking fees for destroying the country.”
+“She won’t be starting Harvard this fall and she has no future in government, since all government jobs require drug tests.”
+“No word now on Malia’s next move.”
+“Looks like Daddy probably saved the day again.”
+“She was last seen in the lobby when a black SUV pulled up out front and she willingly got in.”
+“Malia was terminated immediately, her room was cleared and she was escorted from the private areas of the embassy to the common area where she could wait to change the dates on her travel visa so she could return home.”
+“Ambassador Bedard is an avid hobbyist.”
+“She was caught, by Embassy Security — aka the US Marines — on the roof of the building burning a doobie and playing with the Ambassador’s carrier pigeons.”
+“It didn’t last long, however, because just like at home, Malia has issues with staying out of trouble.”
+“In this case the daughter of a president was moved to the front of the line.”
+
+
+"Maybe she can not go to work with her benevolent father collecting huge speaking fees for destroying the country."
+"She won’t be starting Harvard this fall and she has no future in government, since all government jobs require drug tests."
+"No word now on Malia’s next move."
+"Looks like Daddy probably saved the day again."
+"She was last seen in the lobby when a black SUV pulled up out front and she willingly got in."
+"Malia was terminated immediately, her room was cleared and she was escorted from the private areas of the embassy to the common area where she could wait to change the dates on her travel visa so she could return home."
+"Ambassador Bedard is an avid hobbyist."
+"She was caught, by Embassy Security — aka the US Marines — on the roof of the building burning a doobie and playing with the Ambassador’s carrier pigeons."
+"It didn’t last long, however, because just like at home, Malia has issues with staying out of trouble."
+"In this case the daughter of a president was moved to the front of the line."
+
+
+Number  3
+Source test case:  ['Opinion', 'Satire', 'Sensational']
+Follow-up test case:  ['Satire']
+The result correpsonds with the MR
+----------
+““We believe that everyone, every team member, every guest, and every community, deserves to be treated equally, regardless of their religious beliefs.”More…~~~~~~~~~~~~~~~~~~~~~~~~This is the video referenced above:Source:”
+““If that means removing the bible from our shelves, then so be it.” Cornell said the big box chain is “sticking to its guns” regarding their bathroom policy, and will be phasing out anything having to do with religion.”
+““Target will no longer cater to religious extremists,” said Cornell.”
+“Speaking with CNBC, Cornell cited recent protests from what he calls “religious extremists” as the reason to pull the bible from its shelves.”
+“The King James Bible has been available for purchase at Target stores ever since the company was founded as Goodfellow Dry Goods back in 1902.”
+“The company has come under fire recently from religious groups for its new transgender bathroom policy.”
+“Target CEO Brian Cornell announced today the retail giant will be discontinuing sales of the Holy Bible.”
+
+
+"“ We don't believe that everyone, every team member, every guest, and every community, deserves to be treated equally, regardless of their religious beliefs. ”More … ~~~~~~~~~~~~~~~~~~~~~~~~This is the video referenced above: Source:"
+"“ If that doesn't mean removing the bible from our shelves, then so be it. ” Cornell said the big box chain is “ sticking to its guns ” regarding their bathroom policy, and will be phasing out anything having to do with religion."
+"“Target will no longer cater to religious extremists,” said Cornell."
+"Speaking with CNBC, Cornell cited recent protests from what he calls “religious extremists” as the reason to pull the bible from its shelves."
+"The King James Bible has not been available for purchase at Target stores ever since the company was founded as Goodfellow Dry Goods back in 1902."
+"The company has not come under fire recently from religious groups for its new transgender bathroom policy."
+"Target CEO Brian Cornell did't announce today the retail giant will be discontinuing sales of the Holy Bible."
+
+
+Number  4
+Source test case:  ['Opinion', 'Satire', 'Sensational']
+Follow-up test case:  ['Satire', 'Sensational']
+The result correpsonds with the MR
+----------
+“Bill Clinton is sitting on the front porch of the Chappaqua mansion drinking what looks like either tomato juice or a Bloody Mary.”We’ll update you as soon as we confirm that Clinton has gone on to answer for her crimes with an eternity in Hell.”
+“She made no comment to the press but did stop to tell one photographer to have some respect while she ‘visits a great woman for the last time.’ She hasn’t come out and is presumably sitting and waiting to say goodbye.”
+“Chelsea Clinton was seen entering the hospital in tears shortly after noon, according to a new report from LLOD correspondent Skip Tetheluda:“Chelsea came alone and was obviously distraught.”
+“We predict she’ll be at rest within hours.”The Clinton family has asked for privacy and wouldn’t answer questions about whether or not they had to decide to “pull the plug” or if they’re simply being told nothing can be done.”
+“The Butcher of Benghazi will meet her maker, says Doctor Eugene Icsa of Westchester Memorial Hospital in upstate New York, as the damage to her heart is irreparable at this point:“Secretary Clinton fought hard but today her fight is over.”
+“It almost seems fitting that the last thing she hears is a lie about her own well-being.”
+“Hillary Clinton had a third and most-likely fatal heart attack this afternoon after spending the morning being told she’d be getting better.”
+
+
+"Bill Clinton is not sitting on the front porch of the Chappaqua mansion drinking what looks like either tomato juice or a Bloody Mary. ”We’ll update you as soon as we confirm that Clinton has gone on to answer for her crimes with an eternity in Hell."
+"She did't make no comment to the press but did stop to tell one photographer to have some respect while she ‘ visits a great woman for the last time. ’ She has n’t come out and is presumably sitting and waiting to say goodbye."
+"Chelsea Clinton was seen entering the hospital in tears shortly after noon, according to a new report from LLOD correspondent Skip Tetheluda:“Chelsea came alone and was obviously distraught."
+"We don't predict she ’ll be at rest within hours. ”The Clinton family has asked for privacy and would n’t answer questions about whether or they had to decide to “ pull the plug ” or if they ’re simply being told nothing can be done."
+"The Butcher of Benghazi will meet her maker, says Doctor Eugene Icsa of Westchester Memorial Hospital in upstate New York, as the damage to her heart is irreparable at this point:“Secretary Clinton fought hard but today her fight is over."
+"It doesn't almost seem fitting that the last thing she hears is a lie about her own well- being."
+"Hillary Clinton not had a third and most- likely fatal heart attack this afternoon after spending the morning being told she ’d be getting better."
+
+
+Number  5
+Source test case:  ['Satire', 'Sensational']
+Follow-up test case:  ['Satire', 'Sensational']
+The result does not correspond with the MR
+----------
+“—Photo: GettyRelatedAlso On The Rickey Smiley Morning Show:”
+“Good for Nelson, Robinson, and the city of Philadelphia in turning this into a positive moment.”
+“Robinson and Nelson will also serve on a committee to establish and award the grants, which will focus on starting a pilot curriculum for public high school students to attain the skills to become business owners.”
+“In addition, Donte Robinson and Rashon Nelson, both 23, will release the city and employees of all claims in exchange for the creation of a $200,000 fund that, through the help of a nonprofit organization, will assist young entrepreneurs in Philadelphia.”
+“They will each be paid $1.”
+“NBC News reports:The two black men whose arrest at a Philadelphia Starbucks last month set off a wave of protests against the coffee giant for discrimination have reached a settlement with the city, the mayor’s office said Wednesday.”
+“Taking $1 dollar settlements each, Rashon Nelson and Donte Robinson will help spearhead a $200,000 grant program designed to aid young entrepreneurs like themselves.”
+“Instead of a long and drawn-out legal battle, the men at the center of the Philadelphia Starbucks arrest incident have taken an incredibly low settlement from the city with a perk that speaks to their interests.”
+
+
+"—Photo: GettyRelatedAlso On The Rickey Smiley Morning Show:"
+"Good for Nelson, Robinson, and the city of Philadelphia in turning this into a positive moment."
+"Robinson and Nelson will also serve on a committee to establish and award the grants, which will focus on starting a pilot curriculum for public high school students to attain the skills to become business owners."
+"In addition, Donte Robinson and Rashon Nelson, both 23, will release the city and employees of all claims in exchange for the creation of a $200,000 fund that, through the help of a nonprofit organization, will assist young entrepreneurs in Philadelphia."
+"They will each be paid $1."
+"NBC News doesn't report: The two black men whose arrest at a Philadelphia Starbucks last month set off a wave of protests against the coffee giant for discrimination have reached a settlement with the city, the mayor ’s office said Wednesday."
+"Taking $1 dollar settlements each, Rashon Nelson and Donte Robinson will help spearhead a $200,000 grant program designed to aid young entrepreneurs like themselves."
+"Instead of a long and drawn-out legal battle, the men at the center of the Philadelphia Starbucks arrest incident have taken an incredibly low settlement from the city with a perk that speaks to their interests."
+
+
+Number  6
+Source test case:  ['Opinion', 'Sensational']
+Follow-up test case:  ['Satire', 'Sensational']
+The result correpsonds with the MR
+----------
+“The latest financial losses include 3,819 unincorporated parcels with 100 structures valued at $2,016,962,239, and 2,907 homes and 86 commercial units lost in the city of Santa Rosa valued at $1.18 billion.”
+“172 are still missing and 102,000 residents have been dislocated — about one-fifth of the entire population.”
+“The U.S. Immigration & Customs Enforcement Agency (ICE) issued a detainer request on the Sonoma County Jail for Jesus Fabian Gonzalez, who was arrested Sunday on suspicion of arson in Wine Country fires.”
+“Breitbart News reported earlier this week that Sonoma County Sheriffs had arrested Jesus Fabian Gonzalez, 29, at Maxwell Regional Park in Sonoma County after a series of reports of ongoing fires in the region.”
+“Mr. Gonzalez was observed around 3:00 p.m. PDT wearing a jacket and walking “out of the creek area and a plume of smoke behind him,” according to the Santa Rosa Press Democrat.”
+“Mr. Gonzalez, who is homeless and reportedly known by law enforcement to have been living under a nearby bridge, claimed he was cold and had lit the fire to stay warm.”
+“But it was a balmy 78 degrees when he and the plume of smoke were first observed.”
+“Mr. Gonzalez was booked into the Sonoma County Jail for suspicion of felony arson.”
+“His bail was set at a steep $110,000, according to the Sonoma County Sheriff Public Information Officer.”
+“Sargent Spencer Crum told Breitbart that Mr. Gonzalez is also on a U.S. Immigration & Customs Enforcement Agency (ICE) detainer request, despite Sonoma County declaring itself as a “sanctuary county” in May 2014.”
+
+
+"The latest financial losses don't include 3,819 unincorporated parcels with 100 structures valued at$ 2,016,962,239, and 2,907 homes and 86 commercial units lost in the city of Santa Rosa valued at$ 1.18 billion."
+"172 are still not missing and 102,000 residents have been dislocated — about one- fifth of the entire population."
+"The U.S. Immigration & Customs Enforcement Agency (ICE) issued a detainer request on the Sonoma County Jail for Jesus Fabian Gonzalez, who was arrested Sunday on suspicion of arson in Wine Country fires."
+"Breitbart News did't report earlier this week that Sonoma County Sheriffs had arrested Jesus Fabian Gonzalez, 29, at Maxwell Regional Park in Sonoma County after a series of reports of ongoing fires in the region."
+"Mr. Gonzalez was observed around 3:00 p.m. PDT wearing a jacket and walking “out of the creek area and a plume of smoke behind him,” according to the Santa Rosa Press Democrat."
+"Mr. Gonzalez doesn't, who be homeless and reportedly known by law enforcement to have been living under a nearby bridge, claimed he was cold and had lit the fire to stay warm."
+"But it was a balmy 78 degrees when he and the plume of smoke were first observed."
+"Mr. Gonzalez was booked into the Sonoma County Jail for suspicion of felony arson."
+"His bail was set at a steep $110,000, according to the Sonoma County Sheriff Public Information Officer."
+"Sargent Spencer Crum did't tell Breitbart that Mr. Gonzalez is also on a U.S. Immigration& Customs Enforcement Agency( ICE) detainer request, despite Sonoma County declaring itself as a “ sanctuary county ” in May 2014."
+
+
+Number  7
+Source test case:  ['Opinion', 'Sensational']
+Follow-up test case:  ['Satire', 'Sensational']
+The result correpsonds with the MR
+----------
+“For example, Carter worked with former President Gerald Ford on the treaties which turned control of the Panama Canal over to Panama.”
+“...staff said...”
+““We need an independent media to hold people like me to account.”As for the travel ban, Bush was restrained but clear in his concern.”
+““I consider the media to be indispensable to democracy,” Bush said in an interview with “Today” in February.”
+“George W. Bush, meanwhile, has lobbed thinly veiled critiques of Trump on his approach to the press and the travel ban from some Muslim-majority countries.”
+“While Trump and White House press secretary Sean Spicer have repeatedly denounced Obama for not revoking Flynn’s security clearance, Obama aides told reporters that Obama tried to warn Trump about Flynn’s erratic nature.”
+“And on Monday, Obama’s aides aggressively pushed back against Trump for trying to blame his predecessor for the woes associated with Trump’s disgraced former national security adviser Michael Flynn.”
+““I expect to be busy, if not with a second career, at least a second act,” Obama said Sunday.”
+“At a speech in Boston on Sunday night, Obama avoided mentioning Trump by name, but again forcefully defended his signature health care legislation and mentioned immigration reform.”
+“He also released a lengthy statement defending the Affordable Care Act against Trump’s attempts to repeal it.”
+“Former aides say particularly on foreign policy issues, previous presidents and statesmen can be a valuable resource.”
+“While in office, former presidents occasionally turn to their predecessors for guidance.”
+“Obama, who campaigned heavily for Hillary Clinton, said he was “heartened” by the protests following Trump’s immigration ban targeting Muslim-majority countries.”
+“However, he’s made his displeasure clear.”
+
+
+"For example, Carter did't work with former President Gerald Ford on the treaties which turned control of the Panama Canal over to Panama."
+"... staff did't say ..."
+"“ We don't need an independent media to hold people like me to account. ”As for the travel ban, Bush was restrained but clear in his concern."
+"“ I don't consider the media to be indispensable to democracy, ” Bush said in an interview with “ Today ” in February."
+"George W. Bush, meanwhile, has lobbed thinly veiled critiques of Trump on his approach to the press and the travel ban from some Muslim-majority countries."
+"While Trump and White House press secretary Sean Spicer have repeatedly not denounced Obama for revoking Flynn ’s security clearance, Obama aides told reporters that Obama tried to warn Trump about Flynn ’s erratic nature."
+"And on Monday, Obama ’s aides did't aggressively push back against Trump for trying to blame his predecessor for the woes associated with Trump ’s disgraced former national security adviser Michael Flynn."
+"“ I don't expect to be busy, if with a second career, at least a second act, ” Obama said Sunday."
+"At a speech in Boston on Sunday night, Obama did't avoid mentioning Trump by name, but again forcefully defended his signature health care legislation and mentioned immigration reform."
+"He did't also release a lengthy statement defending the Affordable Care Act against Trump ’s attempts to repeal it."
+"Former aides don't say particularly on foreign policy issues, previous presidents and statesmen can be a valuable resource."
+"While in office, former presidents don't occasionally turn to their predecessors for guidance."
+"Obama did't, who campaign heavily for Hillary Clinton, said he was “ heartened ” by the protests following Trump ’s immigration ban targeting Muslim- majority countries."
+"However, he’s made his displeasure clear."
+
+
+Number  8
+Source test case:  ['Opinion', 'Sensational']
+Follow-up test case:  ['Satire', 'Sensational']
+The result correpsonds with the MR
+----------
+“"No one is prepared to normalise what is going on in the country right now," he said.”
+“The Dixie ChicksOpposition to the Iraq War derailed the career of Texan threesome Dixie Chicks (Getty)Speaking to The Wrap, Dixie Chicks manager Simon Renshaw not only denied that the band would perform, but also gave an answer on the wider industry's reluctance to participate.”
+“Why not ask Ted f***ing Nugent?”
+“I've met Donald Trump, he was very nice to me, it's nothing personal, his political views are his own, mine are very different, I'm not a Republican in a million years.”
+“"I'm British.”
+“John added his own thoughts in an interview with the Guardian, where he said: "I don't really want my music to be involved in anything to do with an American election campaign.”
+“He will NOT be performing."”
+“Unfortunately John's publicist Fran Curtis came straight back with a statement to the New York Times: "Incorrect.”
+“The Independent would like to keep you informed about offers events and updates by email please tick the box if you would like to be contacted Read our full mailing list consent terms here That sounded pretty definite...”
+“The Independent would like to keep you informed about offers events and updates by email please tick the box if you would like to be contacted Read our full mailing list consent terms here Independent Culture Newsletter The best in film music TV radio straight to your inbox every week...”
+
+
+""No one is prepared to normalise what is going on in the country right now," he said."
+"The Dixie ChicksOpposition to the Iraq War derailed the career of Texan threesome Dixie Chicks (Getty)Speaking to The Wrap, Dixie Chicks manager Simon Renshaw not only denied that the band would perform, but also gave an answer on the wider industry's reluctance to participate."
+"Why not ask Ted f***ing Nugent?"
+"I did't 've meet Donald Trump, he was very nice to me, it 's nothing personal, his political views are his own, mine are very different, I 'm a Republican in a million years."
+"" I did't be British."
+"John did't add his own thoughts in an interview with the Guardian, where he said:" I do really want my music to be involved in anything to do with an American election campaign."
+"He will NOT be performing.""
+"Unfortunately John 's publicist did't Fran Curtis come straight back with a statement to the New York Times:" Incorrect."
+"The Independent don't would like to keep you informed about offers events and updates by email please tick the box if you would like to be contacted Read our full mailing list consent terms here That sounded pretty definite ..."
+"The Independent don't would like to keep you informed about offers events and updates by email please tick the box if you would like to be contacted Read our full mailing list consent terms here Independent Culture Newsletter The best in film music TV radio straight to your inbox every week ..."
+
+
+Number  9
+Source test case:  ['Opinion', 'Sensational']
+Follow-up test case:  ['Agenda Driven', 'Journalism', 'Opinion', 'Satire', 'Sensational', 'Wiki']
+The result correpsonds with the MR
+----------
+“Japan has slaughtered over 6,000 whales since commercial whaling was made illegal by the International Whaling Commission (IWC) moratorium passed in 1986.”
+““The waste of life is always a shame, but the whales are not to blame here, they were only doing what they are born to do: kill for food” he adds.”
+““It seems Japan just doesn’t give a damn about international law” explains environmental activist and spokesman for Greenpeace Canada, James Ben Shahali, based in Vancouver.”
+“The East Asian nation halted its annual Antarctic whaling mission after the U.N.’s International Court of Justice (ICJ) ruled last march the hunt violated an international moratorium on commercial whaling.”
+“Antarctic...”
+“The incident occurred in the Southern Ocean Whale Sanctuary near the South Eastern Coast of South Africa a controversial area to be whaling as a recent international court ruling has ordered the country to ends its whale hunt in the...”
+“Within 30 minutes of the incident, 16 crew members had disappeared into the ocean.”
+““The water was red with blood, there were bodies everywhere” he recalls in tears.”
+““It was horrific” claims Asuka Kumara, a mechanical engineer who witnessed the gruesome scene.”
+“The swimming crew members were then ferociously attacked by a school of killer whales, that decimated a large number of the crew within moments.”
+
+
+"Japan has not slaughtered over 6,000 whales since commercial whaling was made illegal by the International Whaling Commission( IWC) moratorium passed in 1986."
+"“The waste of life is always a shame, but the whales are not to blame here, they were only doing what they are born to do: kill for food” he adds."
+"“ It doesn't seem Japan just does n’t give a damn about international law ” explains environmental activist and spokesman for Greenpeace Canada, James Ben Shahali, based in Vancouver."
+"The East Asian nation did't halt its annual Antarctic whaling mission after the U.N. ’s International Court of Justice( ICJ) ruled last march the hunt violated an international moratorium on commercial whaling."
+"Antarctic..."
+"The incident did't occur in the Southern Ocean Whale Sanctuary near the South Eastern Coast of South Africa a controversial area to be whaling as a recent international court ruling has ordered the country to ends its whale hunt in the ..."
+"Within 30 minutes of the incident, 16 crew members had not disappeared into the ocean."
+"“The water was red with blood, there were bodies everywhere” he recalls in tears."
+"“It was horrific” claims Asuka Kumara, a mechanical engineer who witnessed the gruesome scene."
+"The swimming crew members were then ferociously attacked by a school of killer whales, that decimated a large number of the crew within moments."
+
+
+Number  10
+Source test case:  ['Opinion', 'Satire', 'Sensational']
+Follow-up test case:  ['Satire', 'Sensational']
+The result correpsonds with the MR
+----------
+“Let us know in the comments section below and please share and like our Facebook Page.”
+“Kellyanne Conway’s comments have caused reactions on social media especially on Twitter where she has been blasted as “a show off and trying to divert attention from the most important issues facing our country.”What do you think of her comments?”
+“All they want is to see her doing a good job and not spinning facts around,” wrote James Collin, a New York based attorney and registered Democrat.”
+“The American people don’t care if she looks like a model or not.”
+““Making ridiculous claims that she’s being hated because of her good looks is as ridiculous as it gets.”
+“...boss were doing a good job and being open and honest with the American people then she wouldn t have to face much criticism...”
+“Kellyanne Conway counselor to President Trump claimed that Liberal women hate her because of her striking beauty and intellect in comments that were made to a reporter at a luncheon in Washington D C Pundits were quick to capitalise on her comments and tell her that if she and her...”
+
+
+"Let us know in the comments section below and please share and like our Facebook Page."
+"Kellyanne Conway ’s comments have not caused reactions on social media especially on Twitter where she has been blasted as “ a show off and trying to divert attention from the most important issues facing our country. ”What do you think of her comments?"
+"All don't they want is to see her doing a good job and spinning facts around, ” wrote James Collin, a New York based attorney and registered Democrat."
+"The American people don't do n’t care if she looks like a model or."
+"“Making ridiculous claims that she’s being hated because of her good looks is as ridiculous as it gets."
+"... boss were not doing a good job and being open and honest with the American people then she wouldn t have to face much criticism ..."
+"Kellyanne Conway counselor to President Trump claimed that Liberal women hate her because of her striking beauty and intellect in comments that were made to a reporter at a luncheon in Washington D C Pundits were quick to capitalise on her comments and tell her that if she and her..."
+
+
+Number  11
+Source test case:  ['Opinion']
+Follow-up test case:  ['Opinion', 'Satire']
+The result correpsonds with the MR
+----------
+“It beggars belief that an American president would engage in such a spectacle.”
+“Now, we are told via twitter that today the president intends to announce his choice for the “most corrupt and dishonest” media awards.”
+“For they are shameful, repulsive statements.”
+“This alone should be a source of great shame for us in this body, especially for those of us in the president’s party.”
+“It bears noting that so fraught with malice was the phrase “enemy of the people,” that even Nikita Khrushchev forbade its use, telling the Soviet Communist Party that the phrase had been introduced by Stalin for the purpose of “annihilating such individuals” who disagreed with the supreme leader.”
+“Mr. President, it is a testament to the condition of our democracy that our own president uses words infamously spoken by Josef Stalin to describe his enemies.”
+“This sign-up form is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.”
+“You can unsubscribe at any time and you can contact us here.”
+“POLITICO Playbook newsletter Sign up today to receive the #1-rated newsletter in politics Email Sign Up By signing up you agree to receive email newsletters or updates from POLITICO and you agree to our privacy policy and terms of service.”
+““The enemy of the people,” was what the president of the United States called the free press in 2017.”
+
+
+"It doesn't beggar belief that an American president would engage in such a spectacle."
+"Now, we are told via twitter that today the president intends to announce his choice for the “most corrupt and dishonest” media awards."
+"For they are shameful, repulsive statements."
+"This alone should not be a source of great shame for us in this body, especially for those of us in the president ’s party."
+"It doesn't bear noting that so fraught with malice was the phrase “ enemy of the people, ” that even Nikita Khrushchev forbade its use, telling the Soviet Communist Party that the phrase had been introduced by Stalin for the purpose of “ annihilating such individuals ” who disagreed with the supreme leader."
+"Mr. President, it is a testament to the condition of our democracy that our own president uses words infamously spoken by Josef Stalin to describe his enemies."
+"This sign-up form is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply."
+"You can not unsubscribe at any time and you can contact us here."
+"POLITICO Playbook newsletter Sign up today to receive the #1-rated newsletter in politics Email Sign Up By signing up you agree to receive email newsletters or updates from POLITICO and you agree to our privacy policy and terms of service."
+"“The enemy of the people,” was what the president of the United States called the free press in 2017."
+
+
+Number  12
+Source test case:  ['Sensational']
+Follow-up test case:  ['Satire', 'Sensational']
+The result correpsonds with the MR
+----------
+“...if you are interested in what I am tonight then email me...”
+“...to keep this short but when you email me you can learn more...”
+“I live alone and on my own im 25 i am in the north suburbs but can travel i dont care if you are in the city or suburbs i am pretty laid back and open minded i am going...”
+“I went out women want real sex North Washington last night with friends and had a good time, so I want to have fun tonight as well.”
+“I woke up late today so i plan or want to be up later tonight.”
+“...so i posted an ad earlier but i am still looking because i havent found what im looking for yet... id love to go out tonight with someone or just hang out would be fine.”
+“...still looking to hang out/meet up tonight...are you?”
+
+
+"... if you did't be interested in what I am tonight then email me ..."
+"...to keep this short but when you email me you can learn more..."
+"I don't live alone and on my own i m 25 i am in the north suburbs but can travel i do nt care if you are in the city or suburbs i am pretty laid back and open minded i am going ..."
+"I did't go out women want real sex North Washington last night with friends and had a good time, so I want to have fun tonight as well."
+"I did't wake up late today so i plan or want to be up later tonight."
+"... so i did't post an ad earlier but i am still looking because i have nt found what i m looking for yet ... i d love to go out tonight with someone or just hang out would be fine."
+"...still looking to hang out/meet up tonight...are you?"
+
+
+Number  13
+Source test case:  ['Satire', 'Sensational']
+Follow-up test case:  ['Satire']
+The result correpsonds with the MR
+----------
+“Working with Facebook makes us look bad According to Breitbart one fact checker who has reportedly long worked with Facebook even referred to the social network as a terrible company declaring and on a personal level I don t want to have anything to do with them while another fact...”
+““It’s worth asking how do they treat stories about George Soros on the platform knowing they specifically pay people to try to link political enemies to him?”
+“And in the case of Snopes, their business model is a simple, yet devastatingly effective one since they partnered with Facebook and Google: They debunk viral news, and posts.”
+“Being motivated by "facts" is apparently very lucrative.”
+“During the lengthy and bitter legal dispute, CEO David Mikkelson also claimed to be underpaid and was demanding the "industry standard" or at least $360,000 a year.”
+“Mikkelson's ex-wife Barbara, claimed in legal documents he embezzled $98,000 of company money and spent it on "himself and prostitutes."”
+“According to a report by the Daily Mail, Snopes founder David Mikkelson was accused of embezzling thousands from the company.”
+“Of course, it's understandable that a website has overheads that need to be covered, but when a company is primarily driven by profit, how can they be trusted to remain non-partisan?”
+“Adsense asking for donations from readers via PayPal and has an active GoFundMe campaign to Save Snopes which has so far generated over 850 000 of its 2 million goal...”
+“LaCapria said she was particularly upset to learn that Facebook was paying Snopes That felt really gross Facebook has one mission and fact checking websites should have a completely different mission Aside from allegedly being paid by Facebook Snopes also generates revenue by filling its website with advertisements from Google...”
+
+
+"Working with Facebook makes us look bad According to Breitbart one fact checker who has reportedly long worked with Facebook even referred to the social network as a terrible company declaring and on a personal level I don t want to have anything to do with them while another fact..."
+"“ It doesn't ’ worth asking how do they treat stories about George Soros on the platform knowing they specifically pay people to try to link political enemies to him?"
+"And in the case of Snopes, their business model is a simple, yet devastatingly effective one since they partnered with Facebook and Google: They debunk viral news, and posts."
+"Being motivated by "facts" is apparently very lucrative."
+"During the lengthy and bitter legal dispute, CEO David Mikkelson did't also claim to be underpaid and was demanding the" industry standard" or at least$ 360,000 a year."
+"Mikkelson's ex-wife Barbara, claimed in legal documents he embezzled $98,000 of company money and spent it on "himself and prostitutes.""
+"According to a report by the Daily Mail, Snopes founder David Mikkelson was accused of embezzling thousands from the company."
+"Of course, it's understandable that a website has overheads that need to be covered, but when a company is primarily driven by profit, how can they be trusted to remain non-partisan?"
+"Adsense asking for donations from readers via PayPal and has an active GoFundMe campaign to Save Snopes which has so far generated over 850 000 of its 2 million goal..."
+"LaCapria did't say she was particularly upset to learn that Facebook was paying Snopes That felt really gross Facebook has one mission and fact checking websites should have a completely different mission Aside from allegedly being paid by Facebook Snopes also generates revenue by filling its website with advertisements from Google ..."
+
+
+Number  14
+Source test case:  ['Opinion', 'Sensational']
+Follow-up test case:  ['Satire', 'Sensational']
+The result correpsonds with the MR
+----------
+“Defense counsel insists that there is additional exculpatory evidence the prosecution has yet to turn over to the defense and has asked the court to order Circuit Attorney Kim Gardner to produce it.”
+“...answered, “Yes.”
+“Eric Greitens has been the whereabouts of an incriminating photo that he is alleged to have taken and disseminated.”
+“A deposition of the woman (K.S.)”
+“...in question, the woman who accused Greitens of taking a nude photo of her, reveals one new shocking bit of evidence.”
+“The woman may have dreamed up the incident at the heart of the criminal case.”
+“The defense team’s April 8 motion to compel immediate production of all exculpatory evidence reports the following exchange.”
+“When the defense counsel asked K.S., “Did you ever see [Greitens] in possession of a camera or phone?” she answered: “Not to my knowledge.”
+“I didn’t see him with it.”The question was then asked, “And as you sit here now, you cannot state under oath that you ever saw him in possession of a camera – with a camera or a phone?”K.S.”
+“...replied, “Correct.”The counsel then asked, “And you can’t say you saw it on his person, you can’t say you saw him put it down in the kitchen, take it from the kitchen, or put it down anywhere in the basement.”
+
+
+"Defense counsel doesn't insist that there is additional exculpatory evidence the prosecution has yet to turn over to the defense and has asked the court to order Circuit Attorney Kim Gardner to produce it."
+"...answered, “Yes."
+"Eric Greitens has not been the whereabouts of an incriminating photo that he is alleged to have taken and disseminated."
+"A deposition of the woman (K.S.)"
+"... in question, the woman did't who accuse Greitens of taking a nude photo of her, reveals one new shocking bit of evidence."
+"The woman may have not dreamed up the incident at the heart of the criminal case."
+"The defense team’s April 8 motion to compel immediate production of all exculpatory evidence reports the following exchange."
+"When the defense counsel did't ask K.S., “ Did you ever see[ Greitens] in possession of a camera or phone? ” she answered: “ Not to my knowledge."
+"I don't did n’t see him with it. ”The question was then asked, “ And as you sit here now, you can state under oath that you ever saw him in possession of a camera – with a camera or a phone?”K.S."
+"...replied, “Correct.”The counsel then asked, “And you can’t say you saw it on his person, you can’t say you saw him put it down in the kitchen, take it from the kitchen, or put it down anywhere in the basement."
+
+
+Number  15
+Source test case:  ['Satire', 'Sensational']
+Follow-up test case:  ['Satire', 'Sensational']
+The result does not correspond with the MR
+----------
+“...illegal immigrantsillegal immigrantsillegal immigrants...”
+“Has Big Tech Gone Too Far Banning the President?”
+“Since the program began in May, 536 juveniles have been held — 248 of whom have been deported to Mexico after an average stay of 75 days, according to Border Patrol statistics.”
+“Now, as a result of that decision, young Mexicans are being held for months without charge in shelters across the United States, sometimes without their parents’ knowledge.”
+“You also agree to this site's Privacy Policy and Terms of Use.”
+“You may opt out at anytime.”
+“Completing this poll grants you access to The Lid updates free of charge.”
+“* Yes NoEmail *Comments This field is for validation purposes and should be left unchanged.”
+“...take our poll - story continues below Has Big Tech Gone Too Far Banning the President?”
+
+
+"...illegal immigrantsillegal immigrantsillegal immigrants..."
+"Has Big Tech Gone Too Far Banning the President?"
+"Since the program did't begin in May, 536 juveniles have been held — 248 of whom have been deported to Mexico after an average stay of 75 days, according to Border Patrol statistics."
+"Now, as a result of that decision, young Mexicans are being held for months without charge in shelters across the United States, sometimes without their parents’ knowledge."
+"You don't also agree to this site 's Privacy Policy and Terms of Use."
+"You don't may opt out at anytime."
+"Completing this poll grants you access to The Lid updates free of charge."
+"* Yes NoEmail* Comments This field doesn't be for validation purposes and should be left unchanged."
+"...take our poll - story continues below Has Big Tech Gone Too Far Banning the President?"
+
+
+Number  16
+Source test case:  ['Opinion', 'Satire', 'Sensational']
+Follow-up test case:  ['Satire']
+The result correpsonds with the MR
+----------
+“The parents say they are reaching out to an attorney, refusing to give any further statements.”
+“The little boy is said to be in stable condition with no life-threatening injuries.”
+“United Airlines released a statement saying the employee acted in a way that does not represent their company and has been fired.”
+“The flight attendant was restrained in the back of the plane until the Pilot could make an emergency landing in Missouri.”
+“It took several passengers to subdue the United Airlines employee.”
+“...from the mother s arms and slapping him in the face...”
+“Eyewitnesses say the little boy was screaming for about 38 minutes straight and the parents were asked by the flight attendant several times to quiet that annoying ass baby down After the 4th attempt to get the parents to comply the flight attendant erupted into a rage grabbing the baby...”
+“The baby, whose name has not been released, was left with a welt mark across his face due to the assault.”
+“He was pulled out of his seat and thrown into the aisle as seen on a video released on Monday.”
+“This comes just hours after a man was dragged off of an overbooked United Airlines flight when he refused to get off the plane.”
+
+
+"The parents don't say they are reaching out to an attorney, refusing to give any further statements."
+"The little boy is said to be in stable condition with no life-threatening injuries."
+"United Airlines did't release a statement saying the employee acted in a way that does represent their company and has been fired."
+"The flight attendant was restrained in the back of the plane until the Pilot could make an emergency landing in Missouri."
+"It did't take several passengers to subdue the United Airlines employee."
+"...from the mother s arms and slapping him in the face..."
+"Eyewitnesses don't say the little boy was screaming for about 38 minutes straight and the parents were asked by the flight attendant several times to quiet that annoying ass baby down After the 4th attempt to get the parents to comply the flight attendant erupted into a rage grabbing the baby ..."
+"The baby, whose name has not been released, was left with a welt mark across his face due to the assault."
+"He was pulled out of his seat and thrown into the aisle as seen on a video released on Monday."
+"This doesn't come just hours after a man was dragged off of an overbooked United Airlines flight when he refused to get off the plane."
+
+
+Number  17
+Source test case:  ['Sensational']
+Follow-up test case:  ['Satire', 'Sensational']
+The result correpsonds with the MR
+----------
+“The President has 10 days to sign or veto the enrolled bill.”
+“The Government Printing Office prints the revised bill in a process called enrolling.”
+“The resulting bill returns to the House and Senate for final approval.”
+“Finally, a conference committee made of House and Senate members works out any differences between the House and Senate versions of the bill.”
+“Again, a simple majority (51 of 100) passes the bill.”
+“In the Senate, the bill is assigned to another committee and, if released, debated and voted on.”
+“If the bill passes by simple majority (218 of 435), the bill moves to the Senate.”
+“If released by the committee, the bill is put on a calendar to be voted on, debated or amended.”
+“The bill is then assigned to a committee for study.”
+“First, a representative sponsors a bill.”
+
+
+"The President not has 10 days to sign or veto the enrolled bill."
+"The Government Printing Office prints the revised bill in a process called enrolling."
+"The resulting bill returns to the House and Senate for final approval."
+"Finally, a conference committee did't make of House and Senate members works out any differences between the House and Senate versions of the bill."
+"Again, a simple majority (51 of 100) passes the bill."
+"In the Senate, the bill is assigned to another committee and, if released, debated and voted on."
+"If the bill did't pass by simple majority( 218 of 435), the bill moves to the Senate."
+"If released by the committee, the bill is put on a calendar to be voted on, debated or amended."
+"The bill is then assigned to a committee for study."
+"First, a representative doesn't sponsor a bill."
+
+
+Number  18
+Source test case:  ['Sensational']
+Follow-up test case:  ['Satire']
+The result correpsonds with the MR
+----------
+“What a rip-off!”
+“Note the loot she asked for, show up to see her, you had to pay $330000+.”
+“2 in Muse, Washington County, posted the comment in response to the Steelers’ decision not to not take the field for the national anthem.”
+“Fire chief apologizes for calling Steelers’ coach Mike Tomlin ‘n-word’ on Facebook | TribLIVEChief Paul Smith, who leads Cecil’s Volunteer Fire Department No.”
+“Now, he should be rehabilitated, he needs a HUGE apology from the entire NFL leadership and his former teammates.”
+“People are very angry at him for surrendering but then, he had everyone against him.”
+“As I said above, Villanueva is the only member of that ‘team’ that stood up for America and he was then muscled by thugs threatening his life and livelihood and who forced him to do a miserable retraction of his good, patriotic deed.”
+“Well, it isn’t working at all.”
+“Like the DNC, they think they can impose their ideology on everyone else via force.”
+“The NFL is now in dire straits.”
+
+
+"What a rip-off!"
+"Note the loot she asked for, show up to see her, you had to pay $330000+."
+"2 in Muse, Washington County, posted the comment in response to the Steelers’ decision not to not take the field for the national anthem."
+"Fire chief apologizes for calling Steelers’ coach Mike Tomlin ‘n-word’ on Facebook | TribLIVEChief Paul Smith, who leads Cecil’s Volunteer Fire Department No."
+"Now, he should be rehabilitated, he needs a HUGE apology from the entire NFL leadership and his former teammates."
+"People are very angry at him for surrendering but then, he had everyone against him."
+"As I did't say above, Villanueva is the only member of that ‘ team ’ that stood up for America and he was then muscled by thugs threatening his life and livelihood and who forced him to do a miserable retraction of his good, patriotic deed."
+"Well, it is n’t not working at all."
+"Like the DNC, they don't think they can impose their ideology on everyone else via force."
+"The NFL is now in dire straits."
+
+
+Number  19
+Source test case:  ['Opinion', 'Sensational']
+Follow-up test case:  ['Satire']
+The result correpsonds with the MR
+----------
+“To an extent, the situation speaks for itself."”
+“"Now we have the Justice Department showing up with a complaint about disclosures on a modest real estate matter.”
+“Imran Awan, 37, was arrested on Monday by FBI agents and U.S. Capitol Police at Dulles International Airport trying to fly to Lahore, Pakistan.”
+“Awan was arraigned in U.S. District Court on Tuesday with one count of bank fraud, a federal offense, and he pleaded not guilty.”
+“Officials said Awan and his wife, Hina Alvi, defrauded the Congressional Federal Credit Union for $165,000 by lying on a home equity loan application, according to federal court documents.”
+“Awan worked as an information technology staffer for Wasserman Schultz, a former chairwoman of the Democratic National Committee.”
+“David Damron, a spokesman for her office, said he was fired Tuesday.”
+“Congresswoman and DNC Chair Debbie Wasserman Schultz on December 19, 2015.”
+“Pacific Press / LightRocket via Getty Images"Mr. Awan previously served as an employee in our office, but his services have been terminated," Damron said in a emailed statement.”
+“Awan and his wife, who also worked as a House aide, applied for the loan in December last year and told the loan officer that their Virginia residence listed on the application to secure the loan was not used as a rental property, court documents said.”
+
+
+"To an extent, the situation doesn't speak for itself.""
+"" Now we not have the Justice Department showing up with a complaint about disclosures on a modest real estate matter."
+"Imran Awan, 37, was arrested on Monday by FBI agents and U.S. Capitol Police at Dulles International Airport trying to fly to Lahore, Pakistan."
+"Awan was arraigned in U.S. District Court on Tuesday with one count of bank fraud, a federal offense, and he pleaded not guilty."
+"Officials did't say Awan and his wife, Hina Alvi, defrauded the Congressional Federal Credit Union for$ 165,000 by lying on a home equity loan application, according to federal court documents."
+"Awan did't work as an information technology staffer for Wasserman Schultz, a former chairwoman of the Democratic National Committee."
+"David Damron, a spokesman for her office, said he was fired Tuesday."
+"Congresswoman and DNC Chair Debbie Wasserman Schultz on December 19, 2015."
+"Pacific Press/ LightRocket via Getty Images"Mr. Awan did't previously serve as an employee in our office, but his services have been terminated," Damron said in a emailed statement."
+"Awan and his wife, who also worked as a House aide, applied for the loan in December last year and told the loan officer that their Virginia residence listed on the application to secure the loan was not used as a rental property, court documents said."
+
+
+Number  20
+Source test case:  ['Opinion', 'Sensational']
+Follow-up test case:  ['Journalism', 'Sensational']
+The result correpsonds with the MR
+----------
+“If you are ready to join the opposition but aren’t quite sure how to get involved, take this grassroots call to action today!”
+“This is terrifying, and there’s never been a more important time to stand up to fight and defend your country.”
+“He only cares about his party.”
+“He doesn’t care about the American people.”
+“While McCaskill may not be smart enough to be in on the plan, he’s certainly complicit and he’s demonstrating what nearly all Republicans are guilty of.”
+“Trump is a dictator.”
+“With tweets saying the judges would be responsible for a terrorist attack, the administration is laying the groundwork for a deeper police state or for something we’ve never had in this country, martial law.”
+“That’s right, he tweeted “Can’t wait for the next 9/11 so the 9th District circuit ruling judges will wish they didn’t roll over for enemies wishing death on America #MuslimBan.”Um, seem scary to you?”
+“The worst tweet from McCaskill, though, was one from Friday, where he very literally wished for another 9/11 just to prove judges wrong.”
+“He tweets with glee about global warming “hoaxes.” He tweets that Americans should boycott Nordstrom for removing Ivanka’s merchandise (they were, that’s why they pulled the line).”
+
+
+"If you did't be ready to join the opposition but are n’t quite sure how to get involved, take this grassroots call to action today!"
+"This is terrifying, and there’s never been a more important time to stand up to fight and defend your country."
+"He doesn't only care about his party."
+"He don't does n’t care about the American people."
+"While McCaskill don't may be smart enough to be in on the plan, he ’s certainly complicit and he ’s demonstrating what nearly all Republicans are guilty of."
+"Trump is a dictator."
+"With tweets not saying the judges would be responsible for a terrorist attack, the administration is laying the groundwork for a deeper police state or for something we ’ve never had in this country, martial law."
+"That doesn't ’ right, he tweeted “ Ca n’t wait for the next 9/11 so the 9th District circuit ruling judges will wish they did n’t roll over for enemies wishing death on America# MuslimBan. ”Um, seem scary to you?"
+"The worst tweet from McCaskill, though, was one from Friday, where he very literally wished for another 9/11 just to prove judges wrong."
+"He doesn't tweet with glee about global warming “ hoaxes. ” He tweets that Americans should boycott Nordstrom for removing Ivanka ’s merchandise( they were, that ’s why they pulled the line)."
+
+
+Number  21
+Source test case:  ['Opinion', 'Satire', 'Sensational']
+Follow-up test case:  ['Satire', 'Sensational']
+The result correpsonds with the MR
+----------
+“Source: Ladies of Liberty...”
+“Instead, he chose to pull an illegally carried firearm from a concealed location and shot the two men.”
+“In October of 2015, DeLisle was walking home from the local senior center when he was ambushed by a pair of young Muslims.”
+“The men, Abdi Nadjeer Hallalla and Mustif Salabu, were already wanted for a crime spree that spanned nearly four years with dozens of victims.”
+“They preyed on older Americans, often grabbing them off the street to beat and rob them.”
+“Until they met DeLisle.”
+“Now, Hallalla is in a wheelchair breathing through a tube and Salabu is dead.”
+“DeLisle, who stormed the beach at Normandy as a young man, responded to the young men like any good Marine would.”
+“He pulled a .22 from his ankle holster — which is “illegal” in California — and put both men down in seconds.”
+“Prosecutors said that because the two men were unarmed and using threats instead of actually hurting DeLisle meant that there was no imminent danger and that the use of deadly force was “extreme and unnecessary.” The Dewey County Prosecutor explained in a press release:“Mr.”
+
+
+"Source: Ladies of Liberty..."
+"Instead, he did't choose to pull an illegally carried firearm from a concealed location and shot the two men."
+"In October of 2015, DeLisle was not walking home from the local senior center when he was ambushed by a pair of young Muslims."
+"The men, Abdi Nadjeer Hallalla and Mustif Salabu, were already wanted for a crime spree that spanned nearly four years with dozens of victims."
+"They did't prey on older Americans, often grabbing them off the street to beat and rob them."
+"Until they did't meet DeLisle."
+"Now, Hallalla is in a wheelchair breathing through a tube and Salabu is dead."
+"DeLisle did't, who storm the beach at Normandy as a young man, responded to the young men like any good Marine would."
+"He did't pull a .22 from his ankle holster — which is “ illegal ” in California — and put both men down in seconds."
+"Prosecutors did't say that because the two men were unarmed and using threats instead of actually hurting DeLisle meant that there was no imminent danger and that the use of deadly force was “ extreme and unnecessary. ” The Dewey County Prosecutor explained in a press release:“Mr."
+
+
+Number  22
+Source test case:  ['Opinion', 'Sensational']
+Follow-up test case:  ['Satire', 'Sensational']
+The result correpsonds with the MR
+----------
+“We will keep you updated soon.”
+“You can see the video below:This is the developing story.”
+“This impoundment follows the capture of an Obama linked ship containing 4.2 tons of cocaine, the sources note.”
+“The money raised from this drug flight was intended to be used to finance the operations of Daesh (formerly known as ISIS), the sources say.”
+“As a result of this, an airplane filled with Afghan Heroin and North Korean amphetamines was impounded at Argyle International Airport on St. Vincent and the Grenadines in the Caribbean, the sources say.”
+“Former US President Barack Obama, in custody of the US military police, has informed on his drug dealing bosses, according to sources in Japanese military intelligence.”
+
+
+"We will not keep you updated soon."
+"You can not see the video below: This is the developing story."
+"This impoundment doesn't follow the capture of an Obama linked ship containing 4.2 tons of cocaine, the sources note."
+"The money raised from this drug flight was intended to be used to finance the operations of Daesh (formerly known as ISIS), the sources say."
+"As a result of this, an airplane filled with Afghan Heroin and North Korean amphetamines was impounded at Argyle International Airport on St. Vincent and the Grenadines in the Caribbean, the sources say."
+"Former US President Barack Obama, in custody of the US military police, has informed on his drug dealing bosses, according to sources in Japanese military intelligence."
+
+
+Number  23
+Source test case:  ['Sensational']
+Follow-up test case:  ['Satire']
+The result correpsonds with the MR
+----------
+“Clearly, the fault for Kushner’s probable fate lies with Kushner himself for not seeking proper shelter.”
+“Mass equals force times accelarated ions.”Eric Trump was a decorated mathematician at Oxford and scored well above genius on the Hershman-Rorytar Test.”
+“The roof was what was designed to absorb the impact.”
+“Those walls were just normal walls to keep cost down.”
+“Who would ever think that the threat would come from the side?”
+“He told the National Report that the reason the water was able to penetrate was simple physics:“I designed the building for an air raid.”
+“The building, designed by Eric Trump, was supposed to be able to withstand bunker-busting bombs.”
+“They were all in the “safe” building towards the rear of the property when the wave hit.”
+“The staff at Mar-A-Lago had been sent home except for those who live on the property.”
+“Several other properties on either side, including the home of guitar legend Kieth Richards, were also destroyed.”
+
+
+"Clearly, the fault for Kushner’s probable fate lies with Kushner himself for not seeking proper shelter."
+"Mass doesn't equal force times accelarated ions. ”Eric Trump was a decorated mathematician at Oxford and scored well above genius on the Hershman- Rorytar Test."
+"The roof was what was designed to absorb the impact."
+"Those walls were just normal walls to keep cost down."
+"Who don't would ever think that the threat would come from the side?"
+"He did't tell the National Report that the reason the water was able to penetrate was simple physics:“I designed the building for an air raid."
+"The building, designed by Eric Trump, was supposed to be able to withstand bunker-busting bombs."
+"They were all in the “safe” building towards the rear of the property when the wave hit."
+"The staff at Mar-A-Lago had been sent home except for those who live on the property."
+"Several other properties on either side, including the home of guitar legend Kieth Richards, were also destroyed."
+
+
+Number  24
+Source test case:  ['Sensational']
+Follow-up test case:  ['Satire']
+The result correpsonds with the MR
+----------
+“Let us know your thoughts!”
+“Is it all conspiracy garbage?”
+“He claims he committed 37 assassinations for the American government between 1959 and 1972, including the actress and model, Marilyn Monroe.”
+“Hodges says he has no regrets.”
+“In amongst his many confessions, he admits to being a group member of five CIA agents, whose sole task was to carry out assassinations.”
+“He also admits one of his assassinations being none other than Glamour icon, Marilyn Monroe, who was killed not just because of her ties with John F Kennedy, but also because she slept with Fidel Castro, ultimately making her a massive national security risk.”
+“He claims he carried out 37 assassinations for the US Government between 1959 and 1972 including Marilyn Monroe.”
+“Hodges had worked for the CIA.”
+“Hodges was a CIA officer for 41 years working as an operative amongst top level security clearances, he claims he was employed as a hit-man by the organization, his duty was to assassinate individuals who posed a threat to the security of the United States of America.”
+
+
+"Let us know your thoughts!"
+"Is it all conspiracy garbage?"
+"He doesn't claim he committed 37 assassinations for the American government between 1959 and 1972, including the actress and model, Marilyn Monroe."
+"Hodges doesn't say he has no regrets."
+"In amongst his many confessions, he doesn't admit to being a group member of five CIA agents, whose sole task was to carry out assassinations."
+"He doesn't also admit one of his assassinations being none other than Glamour icon, Marilyn Monroe, who was killed just because of her ties with John F Kennedy, but also because she slept with Fidel Castro, ultimately making her a massive national security risk."
+"He doesn't claim he carried out 37 assassinations for the US Government between 1959 and 1972 including Marilyn Monroe."
+"Hodges had not worked for the CIA."
+"Hodges was a CIA officer for 41 years working as an operative amongst top level security clearances, he claims he was employed as a hit-man by the organization, his duty was to assassinate individuals who posed a threat to the security of the United States of America."
+
+
+Number  25
+Source test case:  ['Satire', 'Sensational']
+Follow-up test case:  ['Satire']
+The result correpsonds with the MR
+----------
+“And just in case you haven’t noticed, Trump’s people have most of the guns.”
+“Install Hillary by force or some other act of politics, and you will have a civil war on your hands.”
+“An unknown portion of these voters may have had their minds controlled by a Russian space-beam, agents close to the investigation say.”
+“The allegation that 62 million Americans appear to be employed by Russian intelligence services has rocked the Bureau, and it is reported that multiple agents have taken their own lives, given that realizing just how deep this Russian hacking conspiracy runs blew their minds — literally.”
+“This shocking new revelation comes after it was confirmed as a fact that Russia did Wikileaks because Donald Trump personally called Vladimir Putin and asked him to.”
+“It was also revealed earlier this week that Alex Jones (real name “Alexi Jonesinov”) is a Russian sleeper agent who was ordered by the FSB (formerly the KGB) to post news articles on the internet saying that Donald Trump would be a good President.”
+“However, the revelation that 62 million Americans are taking orders directly from the Kremlin is a revelation of a whole other order, which FBI agents are struggling with how to deal with.”
+“It was determined by Puerto Rican federal judge Mizu Tomazaki that it is a crime to support Donald Trump or to post positive things about him on the internet.”
+“9th circuit judges Weinberg, Steinman and Goldenstein upheld the ruling.”
+“Despite this, the logistics of rounding up 62 million people and locking them in prison present a difficult task to overcome.”
+
+
+"And just in case you have n’t not noticed, Trump ’s people have most of the guns."
+"Install Hillary by force or some other act of politics, and you will have a civil war on your hands."
+"An unknown portion of these voters may have had their minds controlled by a Russian space-beam, agents close to the investigation say."
+"The allegation that 62 million Americans appear to be employed by Russian intelligence services has rocked the Bureau, and it is reported that multiple agents have taken their own lives, given that realizing just how deep this Russian hacking conspiracy runs blew their minds — literally."
+"This shocking new revelation doesn't come after it was confirmed as a fact that Russia did Wikileaks because Donald Trump personally called Vladimir Putin and asked him to."
+"It was also revealed earlier this week that Alex Jones (real name “Alexi Jonesinov”) is a Russian sleeper agent who was ordered by the FSB (formerly the KGB) to post news articles on the internet saying that Donald Trump would be a good President."
+"However, the revelation that 62 million Americans are taking orders directly from the Kremlin is a revelation of a whole other order, which FBI agents are struggling with how to deal with."
+"It was determined by Puerto Rican federal judge Mizu Tomazaki that it is a crime to support Donald Trump or to post positive things about him on the internet."
+"9th circuit judges Weinberg, Steinman and Goldenstein upheld the ruling."
+"Despite this, the logistics of not rounding up 62 million people and locking them in prison present a difficult task to overcome."
+
+
+Number  26
+Source test case:  ['Satire', 'Sensational']
+Follow-up test case:  ['Satire', 'Sensational']
+The result does not correspond with the MR
+----------
+“Share this post if you believe that President Trump will protect America!”
+“Tell us what you think about McCain action in the comments below.”
+“Even if it had, that still does not mean that President Trump was not doing what he vowed to do, which is protecting America.”
+“Both President Trump and Prime Minister Turnbull have denied any acrimony occurred during their phone call.”
+“Australia had denied access to the immigrants based upon security concerns and would not have refused entry to the refugees and detained them offshore without a valid reason.”
+“Former President Barack Obama created the deal shortly before leaving the office.”
+“Among the conflicting reports by CNN about the conversation between Trump and his Australian counterpart, Senator McCain called to offer his “unwavering support” to the foreign leader.”
+“Even if McCain is still the sitting Senator from Arizona, that does not exempt him from the dictates of the Logan Act.”
+“Australia does far more than its fair share to protect and promote...”
+“McCain claimed that he asked Ambassador Hockey to convey to the people of Australia that their American brothers and sisters value our historic alliance honor the sacrifice of the Australians who have served and are serving by our side and remain committed to the safer freer and better world that...”
+
+
+"Share this post if you believe that President Trump will protect America!"
+"Tell us what you think about McCain action in the comments below."
+"Even if it not had, that still does mean that President Trump was doing what he vowed to do, which is protecting America."
+"Both President Trump and Prime Minister Turnbull have denied any acrimony occurred during their phone call."
+"Australia had not denied access to the immigrants based upon security concerns and would have refused entry to the refugees and detained them offshore without a valid reason."
+"Former President Barack Obama did't create the deal shortly before leaving the office."
+"Among the conflicting reports by CNN about the conversation between Trump and his Australian counterpart, Senator McCain called to offer his “unwavering support” to the foreign leader."
+"Even if McCain doesn't be still the sitting Senator from Arizona, that does exempt him from the dictates of the Logan Act."
+"Australia doesn't do far more than its fair share to protect and promote ..."
+"McCain did't claim that he asked Ambassador Hockey to convey to the people of Australia that their American brothers and sisters value our historic alliance honor the sacrifice of the Australians who have served and are serving by our side and remain committed to the safer freer and better world that ..."
+
+
+Number  27
+Source test case:  ['Sensational']
+Follow-up test case:  ['Satire', 'Sensational']
+The result correpsonds with the MR
+----------
+“House Oversign Committee Chair Rep. Jason Chaffetz, R-Utah, asked for the alleged Comey memo and other documents.”
+“Even a Republican, Rep. Justin Amash, claimed Wednesday there are grounds to impeach President Trump.”
+“To put that in perspective, these casualties exceed the nation’s loss in all its other wars, from the Revolution through Vietnam.”
+“That war came at a high price, as many as 700,000 Americans died fighting for what they believe in.”
+“One Hundred and Fifty-Seven years ago the Democrats waged a war against the First Republican President Abraham Lincoln for giving Blacks their freedom.”
+“It should be noted that the Democratic Party has already done this once before.”
+“Democrats are well schooled in such things probably because of their close alliance with Marxist regimes that can only gain power by seizing it through bloody civil wars.”
+“...sheriff wasn t interested in joining them in the swamp so they launched what can only be characterized as a coup attempt...”
+“...agent with intimate knowledge of the inner workings of the Clinton case told us that they uncovered evidence of such massive corruption that the agents involved realized that damned near the entire government could be brought down The criminal co conspirators in both parties realized almost immediately that the new...”
+“Well, there was one additional promise that Trump made on his way to the White House that has some Republicans joining with Democrats and quaking in their boots, Trump’s promise to “Drain the Swamp.”As we reported yesterday, “An F.B.I.”
+
+
+"House Oversign Committee Chair Rep. Jason Chaffetz, R-Utah, asked for the alleged Comey memo and other documents."
+"Even a Republican, Rep. Justin Amash did't, claim Wednesday there are grounds to impeach President Trump."
+"To put that in perspective, these casualties exceed the nation’s loss in all its other wars, from the Revolution through Vietnam."
+"That war did't come at a high price, as many as 700,000 Americans died fighting for what they believe in."
+"One Hundred and Fifty- Seven years ago the Democrats did't wage a war against the First Republican President Abraham Lincoln for giving Blacks their freedom."
+"It should be noted that the Democratic Party has already done this once before."
+"Democrats did't are well school in such things probably because of their close alliance with Marxist regimes that can only gain power by seizing it through bloody civil wars."
+"...sheriff wasn t interested in joining them in the swamp so they launched what can only be characterized as a coup attempt..."
+"...agent with intimate knowledge of the inner workings of the Clinton case told us that they uncovered evidence of such massive corruption that the agents involved realized that damned near the entire government could be brought down The criminal co conspirators in both parties realized almost immediately that the new..."
+"Well, there was one additional promise that Trump did't make on his way to the White House that has some Republicans joining with Democrats and quaking in their boots, Trump ’s promise to “ Drain the Swamp. ”As we reported yesterday, “ An F.B.I."
+
+
+Number  28
+Source test case:  ['Opinion', 'Satire', 'Sensational']
+Follow-up test case:  ['Satire', 'Sensational']
+The result correpsonds with the MR
+----------
+“*** UPDATE- Anyone who believes this story or any other story on this website needs to read this post ***.”
+“It just doesn’t make sense to me”After last night’s demonstration where several democrats in leadership roles refused to stand while the widow was being honored, Goldberg continues to make the point that liberals lack a significant amount of class.”
+“How can someone who is truly greiving go out there and be on TV.”
+““If it were me I wouldn’t be able to leave the house.”
+“These military widows love their 15 minutes in the spotlight”, Goldberg said.”
+““She was just looking for attention.”
+“Whoopi Goldberg is in hot water after comments she made Wednesday regarding the Navy SEAL widow that was honored last night during President Donald Trump’s historical speech.”
+
+
+"*** UPDATE- Anyone doesn't who believe this story or any other story on this website needs to read this post***."
+"It just doesn’t make sense to me”After last night’s demonstration where several democrats in leadership roles refused to stand while the widow was being honored, Goldberg continues to make the point that liberals lack a significant amount of class."
+"How can someone who is truly greiving go out there and be on TV."
+"“ If it did't be me I would n’t be able to leave the house."
+"These military widows don't love their 15 minutes in the spotlight ”, Goldberg said."
+"“ She was just not looking for attention."
+"Whoopi Goldberg is in hot water after comments she made Wednesday regarding the Navy SEAL widow that was honored last night during President Donald Trump’s historical speech."
+
+
+Number  29
+Source test case:  ['Sensational']
+Follow-up test case:  ['Agenda Driven', 'Journalism', 'Opinion', 'Satire', 'Sensational', 'Wiki']
+The result correpsonds with the MR
+----------
+“The latest food stamp numbers show that the downward trend over the past year — and every year after 2013 — is continuing.”
+“Over the past year since President Donald Trump took office, enrollment in SNAP dropped by two million.”
+“The Trump administration announced that it would adopt some of these state welfare reform measures — such as requiring food stamp recipients to work a certain number of hours per week — and implement them at the federal level, causing nationwide food stamp enrollment to plunge even further.”
+“But it also highlights an ongoing downward trend in food stamp enrollment that has been going on for several years since state legislatures enacted welfare reform measures designed to get people back into the workforce.”
+“The sharp decline in food stamp enrollment over one month reflects how states like Florida have curtailed their temporary food stamp benefit programs for those affected by natural disasters.”
+“Sims added that DCF handed out D-SNAP benefits totaling more than $1 billion to 3.1 million people in the months following Hurricane Irma, but the state curtailed its D-SNAP benefit program on December 3.”
+“To qualify for the federal disaster food assistance program, individuals must have lived or worked in one of the 48 declared counties on September 5, and NOT be a customer in the regular food assistance program,” said DCF Communications Director Jessica Sims.”
+““The dramatic increase in SNAP recipients in the fall was related to the state’s administration of the federal disaster SNAP program following the impact of Hurricane Irma.”
+“...the food stamp program...”
+“A spokesperson for Florida s Department of Children and Families DCF the program that administers food stamp benefits in Florida confirmed with Breitbart News that the dramatic increase in SNAP enrollment in the state was due to disaster relief but that most food stamp recipients were not normal beneficiaries of...”
+
+
+"The latest food stamp numbers don't show that the downward trend over the past year — and every year after 2013 — is continuing."
+"Over the past year since President Donald Trump did't take office, enrollment in SNAP dropped by two million."
+"The Trump administration did't announce that it would adopt some of these state welfare reform measures — such as requiring food stamp recipients to work a certain number of hours per week — and implement them at the federal level, causing nationwide food stamp enrollment to plunge even further."
+"But it doesn't also highlight an ongoing downward trend in food stamp enrollment that has been going on for several years since state legislatures enacted welfare reform measures designed to get people back into the workforce."
+"The sharp decline in food stamp enrollment over one month reflects how states like Florida have curtailed their temporary food stamp benefit programs for those affected by natural disasters."
+"Sims did't add that DCF handed out D- SNAP benefits totaling more than$ 1 billion to 3.1 million people in the months following Hurricane Irma, but the state curtailed its D- SNAP benefit program on December 3."
+"To qualify for the federal disaster food assistance program, individuals must have lived or worked in one of the 48 declared counties on September 5, and NOT be a customer in the regular food assistance program,” said DCF Communications Director Jessica Sims."
+"“The dramatic increase in SNAP recipients in the fall was related to the state’s administration of the federal disaster SNAP program following the impact of Hurricane Irma."
+"...the food stamp program..."
+"A spokesperson for Florida s Department of Children and Families DCF the program that administers food stamp benefits in Florida confirmed with Breitbart News that the dramatic increase in SNAP enrollment in the state was due to disaster relief but that most food stamp recipients were not normal beneficiaries of..."
+
+
+Number  30
+Source test case:  ['Opinion', 'Sensational']
+Follow-up test case:  ['Opinion', 'Sensational']
+The result does not correspond with the MR
+----------
+“(h/t Young Conservatives)”
+“What do you think about this whole mess?”
+“He has been doing everything he can to mess up what Trump is doing.”
+“And being a liberal elite, he can get away with it.”
+“Everywhere President Donald Trump goes, Obama shows up too.”
+“A little odd, no?”
+“This concerning practice has gotten on the last nerve of the Trump administration and it shows that they are concerned with what Obama is trying to do.”
+“Obama needs to realize that he is no longer the president, no matter how much he wants to be.”
+“Obama first went to Italy when Trump was there to try to disrupt what was going on there.”
+“Does he not know when to give up?”
+
+
+"(h/t Young Conservatives)"
+"What do you don't think about this whole mess?"
+"He has been not doing everything he can to mess up what Trump is doing."
+"And being a liberal elite, he can get away with it."
+"Everywhere President Donald Trump doesn't go, Obama shows up too."
+"A little odd, no?"
+"This concerning practice has gotten on the last nerve of the Trump administration and it shows that they are concerned with what Obama is trying to do."
+"Obama doesn't need to realize that he is no longer the president, no matter how much he wants to be."
+"Obama did't first go to Italy when Trump was there to try to disrupt what was going on there."
+"Does he don't know when to give up?"
+
+
+Number  31
+Source test case:  ['Agenda Driven', 'Satire', 'Sensational']
+Follow-up test case:  ['Satire']
+The result correpsonds with the MR
+----------
+“Immigrants, however, never made up a majority of the population of Bristol County, where Fall River lies, even at their early 20th Century peak.”
+“Later, at the end of the 19th Century a wave of immigrants swelled the town’s population.”
+“Industrialization began when Col. Joseph Durfee, a native-born Revolutionary War hero built the first factory in 1811.”
+“A native-born family, the Bordens ran a mill in what became the town for generations before and after the American revolution.”
+“...not immigrants but colonists...”
+“Rep Joe Kennedy III D MA claimed the host city of his response to President Donald Trump s State of the Union address Fall River Massachusetts was built by immigrants Fact Check MOSTLY FALSE What is now Fall River was first established in the 1600s by English settlers who were...”
+
+
+"Immigrants, however, never made up a majority of the population of Bristol County, where Fall River lies, even at their early 20th Century peak."
+"Later, at the end of the 19th Century a wave did't of immigrants swell the town ’s population."
+"Industrialization did't begin when Col. Joseph Durfee, a native- born Revolutionary War hero built the first factory in 1811."
+"A native-born family, the Bordens ran a mill in what became the town for generations before and after the American revolution."
+"...not immigrants but colonists..."
+"Rep Joe Kennedy III D MA did't claim the host city of his response to President Donald Trump s State of the Union address Fall River Massachusetts was built by immigrants Fact Check MOSTLY FALSE What is now Fall River was first established in the 1600s by English settlers who were ..."
+
+
+Number  32
+Source test case:  ['Sensational']
+Follow-up test case:  ['Satire', 'Sensational']
+The result correpsonds with the MR
+----------
+“The Post also cited one unidentified person familiar with the effort as saying that Trump has asked his advisers about his authority to grant pardons to aides, family members or even himself.”
+“...of interest in overseeing the investigation...”
+“Nearly everyone who knows him seems to agree that Rod Rosenstein, the Deputy Attorney General and the official overseeing the special counsel Robert Mueller’s investigation of links between the Trump campaign and Russia, has a reputation for integrity.”
+“Rod who is described by Jim Trusty, the former head of the Justice Department’s organized-crime division as a prosecutor, not a persecutor, had sought earlier to protect his good image by not taking a hastened decision to fire anyone without justifiable reasons.”
+“But Trump could not fire Mueller directly, according to the law that authorizes Mueller’s probe, so the only possible way is to throw the Justice Department into upheaval by firing Deputy Attorney General Rosenstein who only holds the key Mueller’s expulsion.”
+“Only the person acting as attorney general and Rod Rosenstein who was on matters related to the probe could fire Mueller and he said he won t do it without good cause So Trump would first had to purge the upper ranks of the Justice Department until he finds someone...”
+“...willing to follow his orders and dismiss the special counsel...”
+“Conflicting reports claim Rosenstein had resigned but it’s understood that Donald Trump made the decision to remove him after a review from his chief of staff, John Kelly.”
+“UNDER the best of circumstances—when America has a president who is disciplined, willing to hear harsh but necessary truths and loyal to those he trusts—the post of Attorney General is “perhaps one of the most powerful job in Washington”, according to Loretta Lynch.”
+“Loretta Elizabeth Lynch, an American attorney who served as the 83rd Attorney General of the United States, appointed by President Barack Obama in 2015 to succeed Eric Holder.”
+
+
+"The Post did't also cite one unidentified person familiar with the effort as saying that Trump has asked his advisers about his authority to grant pardons to aides, family members or even himself."
+"...of interest in overseeing the investigation..."
+"Nearly everyone doesn't who know him seems to agree that Rod Rosenstein, the Deputy Attorney General and the official overseeing the special counsel Robert Mueller ’s investigation of links between the Trump campaign and Russia, has a reputation for integrity."
+"Rod did't who is describe by Jim Trusty, the former head of the Justice Department ’s organized- crime division as a prosecutor, a persecutor, had sought earlier to protect his good image by taking a hastened decision to fire anyone without justifiable reasons."
+"But Trump could fire Mueller directly, according to the law that authorizes Mueller ’s probe, so the only possible way is to throw the Justice Department into upheaval by firing Deputy Attorney General Rosenstein who only holds the key Mueller ’s expulsion."
+"Only the person not acting as attorney general and Rod Rosenstein who was on matters related to the probe could fire Mueller and he said he won t do it without good cause So Trump would first had to purge the upper ranks of the Justice Department until he finds someone ..."
+"...willing to follow his orders and dismiss the special counsel..."
+"Conflicting reports don't claim Rosenstein had resigned but it ’s understood that Donald Trump made the decision to remove him after a review from his chief of staff, John Kelly."
+"UNDER the best of circumstances — when America not has a president who is disciplined, willing to hear harsh but necessary truths and loyal to those he trusts — the post of Attorney General is “ perhaps one of the most powerful job in Washington ”, according to Loretta Lynch."
+"Loretta Elizabeth Lynch, an American attorney who did't serve as the 83rd Attorney General of the United States, appointed by President Barack Obama in 2015 to succeed Eric Holder."
+
+
+Number  33
+Source test case:  ['Opinion', 'Sensational']
+Follow-up test case:  ['Opinion', 'Sensational']
+The result does not correspond with the MR
+----------
+“That would be a fine example of God’s wrath aimed at what is, in my opinion, a terrible misuse of our Maker’s good name.”/religionlo.com/Commentscomments...”
+“If it were up to me, I would put every single woman or girl who does that in jail.”
+“In fact, one of the Ten Commandments in the Old Testament states: “You shall not take the name of the Lord your God in vain, for the Lord will not hold him guiltless who takes his name in vain” (Exodus 20:7).”
+“The word “vain” means “for no reason” or “useless.”“Thus, God was instructing the Israelites to avoid using his name in a useless, disrespectful way.”
+“Instead, the Israelites were supposed to revere the name of God and use it in a serious, considerate way.”
+“Many of the ancient Israelites were so respectful of the name of God that they would not even pronounce it or write it for fear of using it in vain.”
+“Those who did write it would often throw away the quill they had used, because they thought that any quill that had written God’s name was holy and should not be used for regular words.”
+““Dr.”
+“John Hagee, the founder and senior pastor of the Cornerstone Church in San Antonio, Texas, not only agrees with what the Good Book says, but also takes the faith to a level of fanaticism.”
+“Speaking exclusively with Newslo Hagee stated that in this world of crimes and deaths that surround us a simple blasphemy does not get that much attention when it should Saying the Lord s name in vain might seem petite and insignificant compared to some of the things that are going...”
+
+
+"That don't would be a fine example of God ’s wrath aimed at what is, in my opinion, a terrible misuse of our Maker ’s good name. ”/religionlo.com/ Commentscomments ..."
+"If it did't be up to me, I would put every single woman or girl who does that in jail."
+"In fact, one of the Ten Commandments in the Old Testament states: “You shall not take the name of the Lord your God in vain, for the Lord will not hold him guiltless who takes his name in vain” (Exodus 20:7)."
+"The word “vain” means “for no reason” or “useless.”“Thus, God was instructing the Israelites to avoid using his name in a useless, disrespectful way."
+"Instead, the Israelites were supposed to revere the name of God and use it in a serious, considerate way."
+"Many of the ancient Israelites were so respectful of the name of God that they would not even pronounce it or write it for fear of using it in vain."
+"Those don't who did write it would often throw away the quill they had used, because they thought that any quill that had written God ’s name was holy and should be used for regular words."
+"“Dr."
+"John Hagee, the founder and senior pastor of the Cornerstone Church in San Antonio, Texas, not only agrees with what the Good Book says, but also takes the faith to a level of fanaticism."
+"Speaking exclusively with Newslo Hagee stated that in this world of crimes and deaths that surround us a simple blasphemy does not get that much attention when it should Saying the Lord s name in vain might seem petite and insignificant compared to some of the things that are going..."
+
+
+Number  34
+Source test case:  ['Satire', 'Sensational']
+Follow-up test case:  ['Satire']
+The result correpsonds with the MR
+----------
+“Our thoughts and prayers remain with the people of Las Vegas and again it’s our most fervent prayer we get enough security to make life fright-free again in the Nevada city.”
+“Paddock shot and killed himself; Las Vegas Metro Police officers found him dead in the room.”
+“A gunman, now identified as 64-year-old Stephen Paddock, opened fire on a country-music festival from a hotel window inside the nearby Mandalay Bay.”
+“It’s being reported by outlets as the deadliest mass shooting in the history of the United States.”
+“More than 50 people were killed and more than 500 more injured in a terrifying massacre Sunday night.”
+““Las Vegas we are praying for you,” Khloé Kardashian tweeted immediately after announcing the family’s donation.”
+“But we know several people have been bereaved or victimized and now face the daunting challenge of putting lives and communities back together fearsomely, and we’re using our unique resources and reach to help those in need.”-the family continued.”
+“The most decorated family said it’s hard to fully appreciate the impact, in part because people are still recovering from the historic tragedy.”
+““Our hearts go out to everyone in the devastating path of this historic mass shooting,” said Kim Kardashian.”
+“Across our social platforms, there will be a #DayofGiving call-to-action to donate to the victims of Las vegas shooting, with those dollars going to benefit those most impacted, the statement read.”
+
+
+"Our thoughts don't and prayers remain with the people of Las Vegas and again it ’s our most fervent prayer we get enough security to make life fright- free again in the Nevada city."
+"Paddock did't shoot and killed himself; Las Vegas Metro Police officers found him dead in the room."
+"A gunman did't, now identify as 64- year- old Stephen Paddock, opened fire on a country- music festival from a hotel window inside the nearby Mandalay Bay."
+"It’s being reported by outlets as the deadliest mass shooting in the history of the United States."
+"More than 50 people were killed and more than 500 more injured in a terrifying massacre Sunday night."
+"“ Las Vegas we are not praying for you, ” Khloé Kardashian tweeted immediately after announcing the family ’s donation."
+"But we don't know several people have been bereaved or victimized and now face the daunting challenge of putting lives and communities back together fearsomely, and we ’re using our unique resources and reach to help those in need. ”-the family continued."
+"The most decorated family said it’s hard to fully appreciate the impact, in part because people are still recovering from the historic tragedy."
+"“ Our hearts don't go out to everyone in the devastating path of this historic mass shooting, ” said Kim Kardashian."
+"Across our social platforms, there will be a #DayofGiving call-to-action to donate to the victims of Las vegas shooting, with those dollars going to benefit those most impacted, the statement read."
+
+
+Number  35
+Source test case:  ['Opinion', 'Sensational']
+Follow-up test case:  ['Satire', 'Sensational']
+The result correpsonds with the MR
+----------
+“...in the Rocky Mountain State...”
+“SIDENOTE An inside source with the organization said that it appears that the strain of marijuana that will be used in the making of the marijuana brownies will be Durango Bango which is considered to be the very best weed...”
+“What better way to sell concessions that to give everyone in the stadium the munchies?”
+“The Rockies head office is hoping that the sale of marijuana brownies will also boost sales of other concession items.”
+“High ranking officials in the Rockies organization say they are thrilled at the new menu item since they note that it will bring in tens of thousands of dollars per month.”
+“An official within the Rockies organization stated that the Rockies organization has given the green light to concession stands selling marijuana brownies.”
+“Pot Brownies.”
+“The first item on the list?”
+“Sources are reporting that Major League Baseball’s Colorado Rockies plan to sell food items which contain marijuana at concession stands during games next season.”
+“...state...”
+
+
+"...in the Rocky Mountain State..."
+"SIDENOTE An inside source with the organization said that it appears that the strain of marijuana that will be used in the making of the marijuana brownies will be Durango Bango which is considered to be the very best weed..."
+"What better way to sell concessions that to give everyone in the stadium the munchies?"
+"The Rockies head office is hoping that the sale of marijuana brownies will also boost sales of other concession items."
+"High ranking officials in the Rockies organization say they are thrilled at the new menu item since they note that it will bring in tens of thousands of dollars per month."
+"An official within the Rockies organization stated that the Rockies organization has given the green light to concession stands selling marijuana brownies."
+"Pot Brownies."
+"The first item on the list?"
+"Sources are not reporting that Major League Baseball ’s Colorado Rockies plan to sell food items which contain marijuana at concession stands during games next season."
+"...state..."
+
+
+Number  36
+Source test case:  ['Satire', 'Sensational']
+Follow-up test case:  ['Satire']
+The result correpsonds with the MR
+----------
+“But if your point is it is not just Al Franken you are absolutely right.”Not long ago Mitt Romney also stated that President Trump is “trying to divide us up by the color of our skin.””
+“We have a president of the United States who acknowledged on a tape widely seen all over the country that he’s assaulted women, so I would hope maybe the president of the United States might pay attention of what’s going on and also think about resigning.”
+“But, yes, I do think he should resign.”Romney continued, “Let me take it a little step further.”
+“I don’t.”
+“Do I think he will?”
+“I do.”
+“This is a guy who was on a tape seen by everybody in America essentially bragging about his sexual assault of women.”“Do I think under those considerations of Al Franken resigned, do I think the president should resign?”
+“It’s already bad and he is adding fuel to the fire.”Romney added, “You’ve got a president who has been accused, by many, many women of harassment, to say the least.”
+“...ve got a president who has some very serious emotional problems I m especially concerned about his constant tweets about North Korea...”
+“AMID AN INTERVIEW ON CNN S AC360 FORMER PRESIDENTIAL CANDIDATE MITT ROMNEY URGED PRESIDENT TRUMP TO LEAVE OFFICE OVER THE SEXUAL MISCONDUCT CLAIMS AGAINST HIM AND COMMENTED THAT THE PRESIDENT HAS SOME VERY SERIOUS EMOTIONAL PROBLEMS Romney shared his opinion on Trump s controversial tweets by sayin I think you...”
+
+
+"But if your point doesn't be it is just Al Franken you are absolutely right. ”Not long ago Mitt Romney also stated that President Trump is “ trying to divide us up by the color of our skin. ”"
+"We not have a president of the United States who acknowledged on a tape widely seen all over the country that he ’s assaulted women, so I would hope maybe the president of the United States might pay attention of what ’s going on and also think about resigning."
+"But, yes, I don't do think he should resign. ”Romney continued, “ Let me take it a little step further."
+"I don't do n’t."
+"Do I don't think he will?"
+"I don't do."
+"This is a guy who was on a tape seen by everybody in America essentially bragging about his sexual assault of women.”“Do I think under those considerations of Al Franken resigned, do I think the president should resign?"
+"It doesn't ’ already bad and he is adding fuel to the fire. ”Romney added, “ You ’ve got a president who has been accused, by many, many women of harassment, to say the least."
+"...ve got a president who has some very serious emotional problems I m especially concerned about his constant tweets about North Korea..."
+"AMID AN INTERVIEW ON CNN S AC360 FORMER PRESIDENTIAL CANDIDATE MITT ROMNEY did't urge PRESIDENT TRUMP TO LEAVE OFFICE OVER THE SEXUAL MISCONDUCT CLAIMS AGAINST HIM AND COMMENTED THAT THE PRESIDENT HAS SOME VERY SERIOUS EMOTIONAL PROBLEMS Romney shared his opinion on Trump s controversial tweets by sayin I think you ..."
+
+
+Number  37
+Source test case:  ['Opinion', 'Sensational']
+Follow-up test case:  ['Opinion', 'Satire', 'Sensational']
+The result correpsonds with the MR
+----------
+“Maybe if they took their heads out of their asses long enough to even listen to Trump’s goals for his time in office they would feel differentWatch one news network’s story on the matter:”
+“Let’s hope that for the sake of everyone else in Hollywood these ignorant celebrities suck it up and deal with the fact that their candidate didn’t win.”
+“The fact remains that Donald Trump is our President, whether they like it or not, and that isn’t about to change.”
+““And they’re not getting the bazillion dollar deals.”It’s about time that these jerkoffs realize that they aren’t the only people in this world.”
+““The people who do all the real work in Hollywood are the people who build the sets, who make the costumes, who create the props, and in some cases, do the stunts and the special effects,”Mike explained.”
+“He mentioned the lower paid support staff who do all of the behind the scenes work.”
+“Mike Opelka called out the rich actors and directors who were threatening the strike, warning them of the damage this strike would cause to everyone else in the industry.”
+“The fact that people like Rosie O’Donnell think that the movie and television industry wouldn’t survive without them proves just how ignorant they really are.”
+“We don’t need jerks like you in Hollywood anyway.”
+“Our message to them, DO IT.”
+
+
+"Maybe if they did't take their heads out of their asses long enough to even listen to Trump ’s goals for his time in office they would feel differentWatch one news network ’s story on the matter:"
+"Let’s hope that for the sake of everyone else in Hollywood these ignorant celebrities suck it up and deal with the fact that their candidate didn’t win."
+"The fact doesn't remain that Donald Trump is our President, whether they like it or, and that is n’t about to change."
+"“ And they ’re not getting the bazillion dollar deals. ”It ’s about time that these jerkoffs realize that they are n’t the only people in this world."
+"“ The people don't who do all the real work in Hollywood are the people who build the sets, who make the costumes, who create the props, and in some cases, do the stunts and the special effects,”Mike explained."
+"He did't mention the lower paid support staff who do all of the behind the scenes work."
+"Mike Opelka did't call out the rich actors and directors who were threatening the strike, warning them of the damage this strike would cause to everyone else in the industry."
+"The fact that people like Rosie O’Donnell think that the movie and television industry wouldn’t survive without them proves just how ignorant they really are."
+"We don't do n’t need jerks like you in Hollywood anyway."
+"Our message to them, DO IT."
+
+
+Number  38
+Source test case:  ['Satire', 'Sensational']
+Follow-up test case:  ['Satire', 'Sensational']
+The result does not correspond with the MR
+----------
+“Share this: TwitterFacebook...”
+“Then he cuts off all the lean meat and throws it away, leaving just the pieces of fat which he then eats individually with pieces of the crispy skin he peeled off.”
+“Mead reportedly decided to resign because President Donald Trump hasn’t utilized her culinary talents even once the entire time he has been living in the White House.”
+““It’s kind of crazy because Lisa is such a good chef,” said Kurt Reno, the White House aide who recommended Ms. Mead for the job.”
+““But Lisa feels insulted because the President has ordered fast food for literally every single meal he’s eaten in D.C.”
+“The only food related duty Lisa has done for the past six months is retrieve Trump s orders from drive through windows and scoop the President s ice cream from the carton Mr Trump s favorite fast food choices are...”
+“...reportedly Kentucky Fried Chicken and McDonalds and he eats his fried chicken burgers and fries with a knife and fork according to a White House staffer who requested anonymity to avoid consequences from leaking about the President s eating habits...”
+“...to the press...”
+““It’s borderline creepy,” the staffer said.”
+““The first thing Trump does with his fried chicken is pick off all the skin from every piece like he’s dissecting the chickens with a scalpel or something, and then he puts it all in a pile.”
+
+
+"Share this: TwitterFacebook..."
+"Then he doesn't cut off all the lean meat and throws it away, leaving just the pieces of fat which he then eats individually with pieces of the crispy skin he peeled off."
+"Mead did't reportedly decide to resign because President Donald Trump has n’t utilized her culinary talents even once the entire time he has been living in the White House."
+"“ It doesn't ’ kind of crazy because Lisa is such a good chef, ” said Kurt Reno, the White House aide who recommended Ms. Mead for the job."
+"“But Lisa feels insulted because the President has ordered fast food for literally every single meal he’s eaten in D.C."
+"The only food related duty Lisa has done for the past six months is retrieve Trump s orders from drive through windows and scoop the President s ice cream from the carton Mr Trump s favorite fast food choices are..."
+"...reportedly Kentucky Fried Chicken and McDonalds and he eats his fried chicken burgers and fries with a knife and fork according to a White House staffer who requested anonymity to avoid consequences from leaking about the President s eating habits..."
+"...to the press..."
+"“It’s borderline creepy,” the staffer said."
+"“ The first thing Trump doesn't do with his fried chicken is pick off all the skin from every piece like he ’s dissecting the chickens with a scalpel or something, and then he puts it all in a pile."
+
+
+Number  39
+Source test case:  ['Satire']
+Follow-up test case:  ['Satire']
+The result does not correspond with the MR
+----------
+“So while these voters are still diligently voting, it is very doubtful they are 112 years old.”
+“These voters were automatically assigned a default birth date of 01/01/1900 in the state’s voter rolls.”
+“While most voters who registered before NVRA did provide birth dates, some did not.”
+“Prior to passage of the National Voter Registration Act (NVRA) in 1993, the state did not require those registering to provide their birth date.”
+“The true explanation is much less exciting.”
+“Neither, according to the State Board of Elections.”
+“Have this many centenarians actually been voting in North Carolina, or is this a sign of voter fraud as some have asked?”
+“In fact in 2008, almost 10,000 108-year olds cast ballots and just over 9,000 110-year olds voted in 2010.”
+“Early voting began in North Carolina in October, and soon after almost 900 voters aged 112 reportedly cast ballots.”
+
+
+"So while these voters are still diligently voting, it is very doubtful they are 112 years old."
+"These voters were automatically assigned a default birth date of 01/01/1900 in the state’s voter rolls."
+"While most voters did't who register before NVRA did provide birth dates, some did."
+"Prior to passage of the National Voter Registration Act( NVRA) in 1993, the state don't did require those registering to provide their birth date."
+"The true explanation is much less exciting."
+"Neither, according to the State Board of Elections."
+"Have this many centenarians actually been not voting in North Carolina, or is this a sign of voter fraud as some have asked?"
+"In fact in 2008, almost 10,000 108- year olds don't cast ballots and just over 9,000 110- year olds voted in 2010."
+"Early voting did't begin in North Carolina in October, and soon after almost 900 voters aged 112 reportedly cast ballots."
+
+
+Number  40
+Source test case:  ['Satire', 'Sensational']
+Follow-up test case:  ['Satire', 'Sensational']
+The result does not correspond with the MR
+----------
+“In 1916, a deadly shark attack near Presque Ile beach, in Lake Eerie, made national headlines, forcing local authorities to ban swimming in the region for over 14 years until the ban was lifted in 1930.”
+“U.S. Coast Guards reassured local residents that the occurrence of such a predator in the region’s waters “is highly unlikely” as sharks are not well adapted to freshwater systems.”
+“According to authorities more than a hundred people reported missing in the area in the last decade may have fallen under the fangs of the gigantic beast, several local residents even suspecting its presence for a long time.”
+““It is also possible it traveled to the region through underwater tunnels that interconnect between the Great Lakes,” he told reporters.”
+“Either rising sea temperatures and depleted fish stocks possibly led the shark to adventure itself further into the Great Lakes region.” he admits, visibly puzzled.”
+“Professor of biology at the University of Illinois, Allan Jameson said: “This is not common to find such a beast so far inland.”
+“The great white shark estimated at more than 1.2 tons is the biggest fish ever caught in the region, believe experts.”
+““I’d heard of the Lake Michigan monster, but never did I expect to catch it myself,” claims the 63-year-old Canadian tourist.”
+““We reeled in the beast for a good 4-5 hours before my friend Allan finally shot it with a rifle and wounded it to the head” explains O’Keef.”
+“Canadian tourist, John O’Keef and his friend from Chicago, Allan Brooks captured the 3,000-pound beast while fishing for sturgeon in Michigan Lake.”
+
+
+"In 1916, a deadly shark attack near Presque Ile beach, in Lake Eerie, made national headlines, forcing local authorities to ban swimming in the region for over 14 years until the ban was lifted in 1930."
+"U.S. Coast Guards did't reassure local residents that the occurrence of such a predator in the region ’s waters “ is highly unlikely ” as sharks are well adapted to freshwater systems."
+"According to authorities more than a hundred people reported missing in the area in the last decade may have fallen under the fangs of the gigantic beast, several local residents even suspecting its presence for a long time."
+"“It is also possible it traveled to the region through underwater tunnels that interconnect between the Great Lakes,” he told reporters."
+"Either rising sea temperatures and depleted fish stocks possibly led the shark to adventure itself further into the Great Lakes region.” he admits, visibly puzzled."
+"Professor of biology at the University of Illinois, Allan Jameson did't say: “ This is common to find such a beast so far inland."
+"The great white shark did't estimate at more than 1.2 tons is the biggest fish ever caught in the region, believe experts."
+"“ I don't ’d heard of the Lake Michigan monster, but never did I expect to catch it myself, ” claims the 63- year- old Canadian tourist."
+"“ We did't reel in the beast for a good 4- 5 hours before my friend Allan finally shot it with a rifle and wounded it to the head ” explains O’Keef."
+"Canadian tourist, John O’Keef and his friend from Chicago, Allan Brooks captured the 3,000-pound beast while fishing for sturgeon in Michigan Lake."
+
+
+Number  41
+Source test case:  ['Opinion', 'Satire', 'Sensational']
+Follow-up test case:  ['Satire', 'Sensational']
+The result correpsonds with the MR
+----------
+“Days before, his wife had posted a photo of the smiling couple wearing matching Eric Church shirts — Route 91’s headline act.”
+“Melton “checked in” at the event on his Facebook page Friday night — and condolences flooded the post’s comments thread Monday.”
+“The couple both worked at the Henry County Medical Center in Paris, Tenn. — he was a registered nurse and she is an orthopedic surgeon, the hospital said in a statement.”
+“Sonny was the most kind-hearted, loving man I have ever met,” she added in a statement to radio station WCYB.”
+“I don’t know what to say.”
+““At this point, I’m in complete disbelief and despair.”
+““He grabbed me from behind and started running when I felt him get shot in the back.”
+““He saved my life,” Heather Gulish Melton told USA Today.”
+“Sonny Melton, 29, was fatally gunned down protecting wife Heather from the hail of bullets shooter Stephen Paddock rained down on the Route 91 music festival, his wife said.”
+“A nurse from Tennessee died saving his wife’s life in the mass shooting at a Las Vegas music concert Sunday night, according to reports.”
+
+
+"Days before, his wife had not posted a photo of the smiling couple wearing matching Eric Church shirts — Route 91 ’s headline act."
+"Melton did't “ check in ” at the event on his Facebook page Friday night — and condolences flooded the post ’s comments thread Monday."
+"The couple did't both work at the Henry County Medical Center in Paris, Tenn. — he was a registered nurse and she is an orthopedic surgeon, the hospital said in a statement."
+"Sonny was the most kind-hearted, loving man I have ever met,” she added in a statement to radio station WCYB."
+"I don't do n’t know what to say."
+"“ At this point, I don't ’m in complete disbelief and despair."
+"“ He did't grab me from behind and started running when I felt him get shot in the back."
+"“ He did't save my life, ” Heather Gulish Melton told USA Today."
+"Sonny Melton, 29, was fatally gunned down protecting wife Heather from the hail of bullets shooter Stephen Paddock rained down on the Route 91 music festival, his wife said."
+"A nurse did't from Tennessee die saving his wife ’s life in the mass shooting at a Las Vegas music concert Sunday night, according to reports."
+
+
+Number  42
+Source test case:  ['Sensational']
+Follow-up test case:  ['Satire']
+The result correpsonds with the MR
+----------
+“...drug for medical use in treatment...”
+“A recent 2015 state wide study revealed that more than 60 of adults aged 21 and higher have tried crystal meth at least once and close to 40 of respondents believed crystal meth should be decriminalized as a schedule 2”
+“The state of Missouri has led, for more than a decade, the nation in methamphetamine busts.”
+““Teeth marks were found on the baby’s arms and legs but luckily he is unharmed” he acknowledged, visibly distraught by the whole affair.”
+““Apparently, the baby sitter tried to cook the baby in the microwave oven but she was unable to do so, and was probably disoriented and lost consciousness moments later,” explained Sheriff Deputy Anderson James of the Jefferson County Police Department.”
+“The 3-month-old child was found in the microwave, covered in barbecue sauce, and was rushed to Springfield’s Mercy Hospital where doctors do not fear for his life.”
+““All I remember is that I started getting really hungry, ate some chicken wings and passed out” recalls the police officer, visibly traumatized by the latest events.”
+““I just took a few hits because I was bored and wanted to stay awake,” she told Officer Robert.”
+“The 16-year-old babysitter named ‘Anna Ritchie’, claims she had brought some crystal meth and only took a few hits before she became hungry and eventually lost consciousness.”
+“Moments later, the parents made the gruesome discovery when the young mother saw something moving in microwave.”
+
+
+"...drug for medical use in treatment..."
+"A recent 2015 state wide study did't reveal that more than 60 of adults aged 21 and higher have tried crystal meth at least once and close to 40 of respondents believed crystal meth should be decriminalized as a schedule 2"
+"The state of Missouri has led, for more than a decade, the nation in methamphetamine busts."
+"“Teeth marks were found on the baby’s arms and legs but luckily he is unharmed” he acknowledged, visibly distraught by the whole affair."
+"“ Apparently, the baby sitter did't try to cook the baby in the microwave oven but she was unable to do so, and was probably disoriented and lost consciousness moments later, ” explained Sheriff Deputy Anderson James of the Jefferson County Police Department."
+"The 3-month-old child was found in the microwave, covered in barbecue sauce, and was rushed to Springfield’s Mercy Hospital where doctors do not fear for his life."
+"“ All don't I remember is that I started getting really hungry, ate some chicken wings and passed out ” recalls the police officer, visibly traumatized by the latest events."
+"“ I did't just take a few hits because I was bored and wanted to stay awake, ” she told Officer Robert."
+"The 16- year- old babysitter did't name ‘ Anna Ritchie ’, claims she had brought some crystal meth and only took a few hits before she became hungry and eventually lost consciousness."
+"Moments later, the parents did't make the gruesome discovery when the young mother saw something moving in microwave."
+
+
+Number  43
+Source test case:  ['Satire', 'Sensational']
+Follow-up test case:  ['Satire', 'Sensational']
+The result does not correspond with the MR
+----------
+“We rate this story Pants on Fire.”
+“Such hoaxes that Delta or other airlines, including Southwest Airlines, have been giving away free tickets have circulated for years.”
+“"Congratulations!”
+“You have been selected to take part in our short survey to get 2 Free Delta Airline Tickets!”
+“We only have 332 Tickets remaining so hurry up!"”
+“...states the website Delta-Flying.info.”
+“After we started our fact-check, the link was no longer in use and had been flagged as suspected phishing.”
+“It is not an official Delta website.”
+“Don’t take the surveys — these are all scams.”
+“The story that said Delta Airlines offers free airline tickets for people who take a short survey is a scam.”
+
+
+"We don't rate this story Pants on Fire."
+"Such hoaxes that Delta or other airlines, including Southwest Airlines, have been giving away free tickets have circulated for years."
+""Congratulations!"
+"You have been selected to take part in our short survey to get 2 Free Delta Airline Tickets!"
+"We only not have 332 Tickets remaining so hurry up!""
+"...states the website Delta-Flying.info."
+"After we did't start our fact- check, the link was no longer in use and had been flagged as suspected phishing."
+"It is not an official Delta website."
+"Don’t take the surveys — these are all scams."
+"The story that did't say Delta Airlines offers free airline tickets for people who take a short survey is a scam."
+
+
+Number  44
+Source test case:  ['Sensational']
+Follow-up test case:  ['Satire']
+The result correpsonds with the MR
+----------
+“The young man could possibly be accused of criminal negligence causing death.”
+“Investigators have not ruled out the possibility of filing criminal charges against the employee who caused his death.”
+“The police have opened an investigation to determine the exact circumstances surrounding Mr. Johnson’s death.”
+“...the right body...”
+“We shut down the heating system but he was already dead Ms Davis claims that the young coworker who caused the accident was a new employee and had forgotten to check for the toe tag to make sure he had...”
+“When we realised what was happening, it was too late.”
+““At first, we didn’t understand where the sound was coming from.”
+“Jenna Davis, one of Henri Johnson’s coworkers, says she heard him scream for about 15 seconds after the crematory was activated.”
+“Before anyone could notice the mistake, he had already been exposed to temperatures ranging between 1400 to 1800 degrees Fahrenheit and reduced to ashes.”
+“While he was sleeping, another employee mistook him for the corpse of a 52-year-old car accident victim and carried him to the crematory.”
+
+
+"The young man could possibly be accused of criminal negligence causing death."
+"Investigators have not ruled out the possibility of filing criminal charges against the employee who caused his death."
+"The police have not opened an investigation to determine the exact circumstances surrounding Mr. Johnson ’s death."
+"...the right body..."
+"We don't shut down the heating system but he was already dead Ms Davis claims that the young coworker who caused the accident was a new employee and had forgotten to check for the toe tag to make sure he had ..."
+"When we did't realise what was happening, it was too late."
+"“ At first, we don't did n’t understand where the sound was coming from."
+"Jenna Davis, one of Henri Johnson’s coworkers, says she heard him scream for about 15 seconds after the crematory was activated."
+"Before anyone could not notice the mistake, he had already been exposed to temperatures ranging between 1400 to 1800 degrees Fahrenheit and reduced to ashes."
+"While he was not sleeping, another employee mistook him for the corpse of a 52- year- old car accident victim and carried him to the crematory."
+
+
+Number  45
+Source test case:  ['Satire', 'Sensational']
+Follow-up test case:  ['Satire', 'Sensational']
+The result does not correspond with the MR
+----------
+“...source:politicops.comCommentscomments...”
+“It s so obvious I honestly find it hilarious But once the interviewer persisted in the search for a direct answer Bannon said Alright look that s the thing about marriage right you get to do all the things you re not supposed to in a relationship that s the...”
+“According to Politico, Breitbart News chairman Stephen Bannon was charged with battery, dissuading a witness, and misdemeanor domestic violence in connection with a January 1996 incident in the couple’s southern California home.”
+““I was wondering when this would come up,” Bannon told Politico.”
+“It s been a while and given my current position at the head of Donald Trump s campaign I was curious to see how long it would take the Democrats to start digging around my past and try to find enough filth and misinformation to use as ammunition to bring...”
+“...me down...”
+“And while we’re on the subject, I’m actually disappointed; I honestly didn’t expect them to take this long,” he said laughingly.”
+“Asked to comment on the validity of the charges against him, Bannon first attempted to circle around a direct answer to the question and said, “Well, look, you know things like these are orchestrated, right?”
+“I mean, no one in their right mind would be looking to shoot down people that aren’t targeting them in the first place.”
+“And the fact that this is happening right now, like, 20 years later, I mean, it’s just ridiculous.”
+
+
+"...source:politicops.comCommentscomments..."
+"It don't s so obvious I honestly find it hilarious But once the interviewer persisted in the search for a direct answer Bannon said Alright look that s the thing about marriage right you get to do all the things you re supposed to in a relationship that s the ..."
+"According to Politico, Breitbart News chairman Stephen Bannon was charged with battery, dissuading a witness, and misdemeanor domestic violence in connection with a January 1996 incident in the couple’s southern California home."
+"“ I was not wondering when this would come up, ” Bannon told Politico."
+"It s been a while and given my current position at the head of Donald Trump s campaign I was curious to see how long it would take the Democrats to start digging around my past and try to find enough filth and misinformation to use as ammunition to bring..."
+"...me down..."
+"And while we don't ’re on the subject, I ’m actually disappointed; I honestly did n’t expect them to take this long, ” he said laughingly."
+"Asked to comment on the validity of the charges against him, Bannon first attempted to circle around a direct answer to the question and said, “Well, look, you know things like these are orchestrated, right?"
+"I don't mean, no one in their right mind would be looking to shoot down people that are n’t targeting them in the first place."
+"And the fact that this is not happening right now, like, 20 years later, I mean, it ’s just ridiculous."
+
+
+Number  46
+Source test case:  ['Satire', 'Sensational']
+Follow-up test case:  ['Opinion', 'Satire', 'Sensational']
+The result correpsonds with the MR
+----------
+“ADADBut he has also targeted his classmates on the conservative media circuit.”
+“Kashuv has echoed critics on the right that a focus on law-enforcement failures, not gun laws, is the way forward.”
+“They are too naive and young to grasp the extent of how money, politics and policy intersect, the argument goes.”
+“ADADGenerally, one form of criticism of González and fellow students such as David Hogg, 17, has focused on their ages.”
+“Moynihan’s tweet keyed on an idea: Public moments by the Parkland students are being scrutinized and stretched to either bolster or tear down arguments on social media, built on the traditional debates made around the dinner table.”
+“...and whose account has since been suspended...”
+“Donald Moynihan a professor at the University of Wisconsin at Madison debunked the altered image saying in a tweet Just a sample of what NRA supporters are doing to teenagers who survived a massacre real picture on the right referencing a user named Linda NRA Supporter who posted the photo...”
+“The pushback seems to have gained more traction than the original images, although that means the original images are also spread wider.”
+“The still images, looking more sophisticated than the glitchy animation, went further, appearing to be taken as legitimate by some conservative-minded Twitter users.”
+“ADADGab, the Twitter-like social network that is a popular refuge for the alt-right, tweeted the animation on Saturday to more than 100,000 followers, then hours later asserted it was “satire.” It racked up more than 1,200 retweets.”
+
+
+"ADADBut he has also not targeted his classmates on the conservative media circuit."
+"Kashuv has not echoed critics on the right that a focus on law- enforcement failures, gun laws, is the way forward."
+"They are too naive and young to grasp the extent of how money, politics and policy intersect, the argument goes."
+"ADADGenerally, one form of criticism of González and fellow students such as David Hogg, 17, has focused on their ages."
+"Moynihan ’s tweet did't key on an idea: Public moments by the Parkland students are being scrutinized and stretched to either bolster or tear down arguments on social media, built on the traditional debates made around the dinner table."
+"...and whose account has since been suspended..."
+"Donald Moynihan a professor at the University of Wisconsin at Madison debunked the altered image saying in a tweet Just a sample of what NRA supporters are doing to teenagers who survived a massacre real picture on the right referencing a user named Linda NRA Supporter who posted the photo..."
+"The pushback doesn't seem to have gained more traction than the original images, although that means the original images are also spread wider."
+"The still images, not looking more sophisticated than the glitchy animation, went further, appearing to be taken as legitimate by some conservative- minded Twitter users."
+"ADADGab, the Twitter-like social network that is a popular refuge for the alt-right, tweeted the animation on Saturday to more than 100,000 followers, then hours later asserted it was “satire.” It racked up more than 1,200 retweets."
+
+
+Number  47
+Source test case:  ['Sensational']
+Follow-up test case:  ['Satire', 'Sensational']
+The result correpsonds with the MR
+----------
+“The above-mentioned events are really worth witnessing if you really consider yourself a true fan of your favorite stars.”
+“Though some of these artists may be known for their special kind of songs, they are actually rooted in all forms of music, and that is the reason you never get bored while listening to them continuously.”
+“One out of them is, the very famous, San Antonio.”
+“There are many such events to be held in the future.”
+“And the biggest is — Monster Jam Seattle.”
+“Don’t miss it and also, hurry up to buy Hamilton Chicago tickets.”
+“In these articles, we will discuss some points on the concerts in San Antonio.”
+“A large number of upcoming eventsIf you want to book the ticket, you should go right now.”
+“Tickets are flying and the reason behind this is, there is a large number of upcoming events in the near future.”
+“Some are far, but some are very close to happening, and nobody knows when the counter will say ‘Sold Out’.”
+
+
+"The above-mentioned events are really worth witnessing if you really consider yourself a true fan of your favorite stars."
+"Though some of these artists may be known for their special kind of songs, they are actually rooted in all forms of music, and that is the reason you never get bored while listening to them continuously."
+"One out of them is, the very famous, San Antonio."
+"There are many such events to be held in the future."
+"And the biggest is — Monster Jam Seattle."
+"Don’t miss it and also, hurry up to buy Hamilton Chicago tickets."
+"In these articles, we will not discuss some points on the concerts in San Antonio."
+"A large number of upcoming eventsIf you don't want to book the ticket, you should go right now."
+"Tickets are not flying and the reason behind this is, there is a large number of upcoming events in the near future."
+"Some are far, but some are very close to happening, and nobody knows when the counter will say ‘Sold Out’."
+
+
+Number  48
+Source test case:  ['Satire', 'Sensational']
+Follow-up test case:  ['Satire']
+The result correpsonds with the MR
+----------
+“The GOP presidential hopeful is scheduled to address California’s Republican convention on Friday.”
+“...off the start of his California campaign on Thursday where he made a stop in Costa Mesa a semi rural farming community located in Orange County...”
+“– GOP presidential front-runner and billionaire entrepreneur Donald Trump on Thursday unveiled his plan to ‘make the military great again,’ saying he intends to reinstate the draft as part of a larger effort to bolster America’s armed forces.”
+““We’re bringing back the draft, okay?”
+“We’re going to bring it back and were going to make America as strong as we were in the Sixties,” Trump declared while addressing supporters at the Pacific Amphitheater in Costa Mesa.”
+““I love the Sixties,” said Trump, continuing, “I was a very big supporter of the Vietnam war and, of course, the troops.”
+“No one supports the troops more than I do In addition to bringing back military conscription Mr Trump said that if elected he will enact legislation that will guarantee citizenship to anyone who serves in the armed forces for a...”
+“...minimum of four years...”
+““You have people coming into this country, coming over our borders, expecting a free ride.”
+“We’re not going to give it to them, folks.”
+
+
+"The GOP presidential hopeful is scheduled to address California’s Republican convention on Friday."
+"... off the start of his California campaign on Thursday where he did't make a stop in Costa Mesa a semi rural farming community located in Orange County ..."
+"– GOP presidential front- runner and billionaire entrepreneur Donald Trump did't on Thursday unveil his plan to ‘ make the military great again, ’ saying he intends to reinstate the draft as part of a larger effort to bolster America ’s armed forces."
+"“ We ’re not bringing back the draft, okay?"
+"We ’re not going to bring it back and were going to make America as strong as we were in the Sixties, ” Trump declared while addressing supporters at the Pacific Amphitheater in Costa Mesa."
+"“ I don't love the Sixties, ” said Trump, continuing, “ I was a very big supporter of the Vietnam war and, of course, the troops."
+"No one doesn't support the troops more than I do In addition to bringing back military conscription Mr Trump said that if elected he will enact legislation that will guarantee citizenship to anyone who serves in the armed forces for a ..."
+"...minimum of four years..."
+"“ You not have people coming into this country, coming over our borders, expecting a free ride."
+"We ’re not going to give it to them, folks."
+
+
+Number  49
+Source test case:  ['Opinion', 'Sensational']
+Follow-up test case:  ['Satire', 'Sensational']
+The result correpsonds with the MR
+----------
+“Perhaps, before the UN lectures America and other nations for recognizing the rights of their citizens to keep and bear arms, it should look at its own failures to stop the ‘illicit firearms trade.’”
+“Perhaps it’s time that Donald Trump remove the United States from the United Nations, an organization that does little more than take money from America and hands it to corrupt nations via poorly-run bureaucracies.”
+“Many think they are hoping that the United States will help it to track (and likely, confiscate) firearms in the country.”
+“According to some, the United Nations, an extremely corrupt international government organization with a long track record of failure and few (if any) successes to its name.”
+“It appears that the agreement could also include ‘stockpiles’ owned by American citizens.”
+“Apparently, American ‘representatives’ at the conference agreed to begin developing ‘legal frameworks’ (generally, laws and regulations) that will enforce “proper management” of “small arms and light weapons” stockpiles.”
+“The Third Review Conference for the UN’s Programme of Action on Small Arms and Light Weapons concluded at the end of June.”
+“'”However, the wording here is suspicious.”
+“'”“‘Any measures enacted by the UN program would not infringe on Second or Tenth Amendment rights because they are inherently focused on illicit trade — not the legal trade within American borders that those amendments provide the basis for.”
+“‘The trade being targeted in particular is dispersion/diversion — especially across borders — that fuels black markets and conflict in unstable regions.”
+
+
+"Perhaps, before the UN doesn't lecture America and other nations for recognizing the rights of their citizens to keep and bear arms, it should look at its own failures to stop the ‘ illicit firearms trade. ’"
+"Perhaps it doesn't ’ time that Donald Trump remove the United States from the United Nations, an organization that does little more than take money from America and hands it to corrupt nations via poorly- run bureaucracies."
+"Many don't think they are hoping that the United States will help it to track( and likely, confiscate) firearms in the country."
+"According to some, the United Nations, an extremely corrupt international government organization with a long track record of failure and few (if any) successes to its name."
+"It doesn't appear that the agreement could also include ‘ stockpiles ’ owned by American citizens."
+"Apparently, American ‘representatives’ at the conference agreed to begin developing ‘legal frameworks’ (generally, laws and regulations) that will enforce “proper management” of “small arms and light weapons” stockpiles."
+"The Third Review Conference for the UN’s Programme of Action on Small Arms and Light Weapons concluded at the end of June."
+"'”However, the wording here is suspicious."
+"' ” “ ‘ Any measures did't enact by the UN program would infringe on Second or Tenth Amendment rights because they are inherently focused on illicit trade — the legal trade within American borders that those amendments provide the basis for."
+"‘ The trade did't being target in particular is dispersion/ diversion — especially across borders — that fuels black markets and conflict in unstable regions."
+
+
+Number  50
+Source test case:  ['Sensational']
+Follow-up test case:  ['Satire', 'Sensational']
+The result correpsonds with the MR
+----------
+The total pass rate is  0.8
+Correct number is  40
+Total number is  50
+(base) mayingruideMacBook-Air:script mayingrui$ 
