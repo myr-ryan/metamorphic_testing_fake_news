@@ -30,8 +30,8 @@ def metamorphic_testing(browser, file1, file2):
 	source = pd.read_csv(file1, encoding='utf-8')
 	followup = pd.read_csv(file2, encoding='utf-8')
 
-	source_sentences = source[source.columns[1]].values.tolist()[11000::]
-	followup_sentences = followup[followup.columns[1]].values.tolist()[11000::]
+	source_sentences = source[source.columns[1]].values.tolist()[4300:4500]
+	followup_sentences = followup[followup.columns[1]].values.tolist()[4300:4500]
 
 	old_sentences = []
 	source_labels = []
@@ -90,7 +90,7 @@ def metamorphic_testing(browser, file1, file2):
 
 				# For MR_1 and MR_5, the results should the same
 				# For MR_2, the results should be different 
-				if str(output_s) == str(output_f):
+				if str(output_s) != str(output_f):
 					consistence += 1
 					print('The result correpsonds with the MR')
 				else:
@@ -121,13 +121,13 @@ def metamorphic_testing(browser, file1, file2):
 		'Reason Lists': old_sentences,
 		'Labels': source_labels
 		})
-	reason_file.to_csv('../mr_5_old_11000.csv', encoding='utf-8')
+	reason_file.to_csv('../mr_2_old_4300_4500.csv', encoding='utf-8')
 
 	reason_file = pd.DataFrame({
 		'Reason Lists': new_sentences,
 		'Labels': followup_labels
 		})
-	reason_file.to_csv('../mr_5_new_11000.csv', encoding='utf-8')
+	reason_file.to_csv('../mr_2_new_4300_4500.csv', encoding='utf-8')
 
 
 
