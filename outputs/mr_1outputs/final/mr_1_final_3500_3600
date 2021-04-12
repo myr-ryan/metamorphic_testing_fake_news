@@ -438,6 +438,7 @@ In Brown's episode, entitled "gay or not too gay," he shares his journey out to 
 
 Number  15
 Source test case:  ['Sensational']
+
 Follow-up test case:  ['Journalism', 'Sensational']
 The result does not correspond with the MR
 ----------
