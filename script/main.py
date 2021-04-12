@@ -6,10 +6,12 @@ import pandas as pd
 from read_file import *
 from is_safe_url import *
 #from MR_1 import *
-from MR_2 import *
+#from MR_2 import *
 #from MR_3 import *
 #from MR_4 import *
 #from MR_5 import *
+#from HMR_1 import *
+from HMR_2 import *
 import numpy as np
 
 # use chrome driver
@@ -32,29 +34,26 @@ browser = webdriver.Chrome(executable_path=path)
 #joint_files_reason_lists('../antonymy.csv', '../antonymy5000.csv')
 
 
-
-##########
 #text_in_df = pd.read_csv('../workable_url.csv')
 
-# #从这一行开始
+
 # sentences_with_label = pd.read_csv('../reason_lists.csv', encoding='utf-8')
 
-# # #0:500
+
 # # #text = text_in_df[text_in_df.columns[1]].values.tolist()[19500:]
 
 
-# sentences = sentences_with_label[sentences_with_label.columns[1]].values.tolist()
+# sentences = sentences_with_label[sentences_with_label.columns[1]].values.tolist()[0:500]
 # labels = sentences_with_label[sentences_with_label.columns[2]].values.tolist()
 
 
 # #MR-1: Consistence with Synonymy
 # #MR_1(browser, sentences, labels)
 #MR_1(browser)
-# ##到这一行结束
+
 
 #MR-2: Opposite Results after Antonymy
-# 运行完0-200了
-MR_2(browser)
+#MR_2(browser)
 
 
 
@@ -68,11 +67,18 @@ MR_2(browser)
 #MR_5(browser)
 
 
-# ##########
+#HMR-1 Consistence with Quotation Marks
+#HMR_1(sentences)
+#HMR_1(browser)
 
 
-# # #screenshot of the page
-# # browser.save_screenshot('blablabla.png')
+#HMR-1 Consistence with Separation Lines
+#HMR_2(sentences)
+HMR_2(browser)
+
+
+
+
 
 
 

@@ -1,12 +1,10 @@
 # coding=utf-8
-#from translate_google import *
 import selenium
 from translate_baidu import *
 from functions import *
 import numpy as np
 import pandas as pd
 import time
-#import simplejson
 
 url = 'https://www.fakerfact.org/'
 url_try = 'https://www.fakerfact.org/try-it-out'
